@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Shaan Tank",
+        "city": "Hyderabad",
+        "specialization": "Dermatologist",
+        "hospital": "Kale PLC",
+        "age": 30,
+        "rating": 3.1,
+        "email": "shaantank@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Vritika Gade",
+        "city": "Hyderabad",
+        "specialization": "Cardiologist",
+        "hospital": "Mandal-Dutt",
+        "age": 51,
+        "rating": 3.4,
+        "email": "vritikagade@gmail.com",
+        "available_days": [
+            "Friday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Heer Seshadri",
+        "city": "Hyderabad",
+        "specialization": "Endocrinologist",
+        "hospital": "Sama-Rege",
+        "age": 26,
+        "rating": 4.5,
+        "email": "heerseshadri@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Thursday",
+            "Saturday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Indrans Upadhyay",
+        "city": "Hyderabad",
+        "specialization": "Oncologist",
+        "hospital": "Doshi Inc",
+        "age": 49,
+        "rating": 3.7,
+        "email": "indransupadhyay@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Tarini Banik",
+        "city": "Hyderabad",
+        "specialization": "Radiologist",
+        "hospital": "Deep, Kade and Sampath",
+        "age": 50,
+        "rating": 3.4,
+        "email": "tarinibanik@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Thursday",
+            "Sunday",
+            "Wednesday",
+            "Saturday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Elakshi Seth",
+        "city": "Hyderabad",
+        "specialization": "Surgeon",
+        "hospital": "Ganesh-Balay",
+        "age": 35,
+        "rating": 3.2,
+        "email": "elakshiseth@gmail.com",
+        "available_days": [
+            "Monday",
+            "Sunday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Divyansh Sarraf",
+        "city": "Hyderabad",
+        "specialization": "Pediatrician",
+        "hospital": "Kari-Som",
+        "age": 57,
+        "rating": 3.3,
+        "email": "divyanshsarraf@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Tuesday",
+            "Monday",
+            "Friday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Inaaya  Dar",
+        "city": "Hyderabad",
+        "specialization": "Cardiologist",
+        "hospital": "Bhakta-Loyal",
+        "age": 38,
+        "rating": 4.5,
+        "email": "inaayadar@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Yuvaan Doctor",
+        "city": "Hyderabad",
+        "specialization": "Psychiatrist",
+        "hospital": "Boase, Vora and Chandra",
+        "age": 30,
+        "rating": 4.8,
+        "email": "yuvaandoctor@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Saturday",
+            "Monday",
+            "Sunday",
+            "Wednesday",
+            "Friday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Anaya Solanki",
+        "city": "Hyderabad",
+        "specialization": "Oncologist",
+        "hospital": "Choudhry-Wason",
+        "age": 57,
+        "rating": 4.6,
+        "email": "anayasolanki@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Lagan Bhatt",
+        "city": "Hyderabad",
+        "specialization": "Radiologist",
+        "hospital": "Datta Ltd",
+        "age": 26,
+        "rating": 3.4,
+        "email": "laganbhatt@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Thursday",
+            "Sunday",
+            "Monday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Jivin Bassi",
+        "city": "Hyderabad",
+        "specialization": "Surgeon",
+        "hospital": "Dubey PLC",
+        "age": 33,
+        "rating": 3.1,
+        "email": "jivinbassi@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Friday",
+            "Monday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Kismat Magar",
+        "city": "Hyderabad",
+        "specialization": "Psychiatrist",
+        "hospital": "Sridhar, Kakar and Sawhney",
+        "age": 47,
+        "rating": 4.1,
+        "email": "kismatmagar@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Friday",
+            "Sunday",
+            "Saturday",
+            "Tuesday",
+            "Monday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Tarini Jayaraman",
+        "city": "Hyderabad",
+        "specialization": "Surgeon",
+        "hospital": "Sagar, Vohra and Koshy",
+        "age": 58,
+        "rating": 4.6,
+        "email": "tarinijayaraman@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Yuvraj  Char",
+        "city": "Hyderabad",
+        "specialization": "Dermatologist",
+        "hospital": "Bala PLC",
+        "age": 26,
+        "rating": 3.2,
+        "email": "yuvrajchar@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Thursday",
+            "Saturday",
+            "Monday",
+            "Friday"
+        ]
+    }
+]

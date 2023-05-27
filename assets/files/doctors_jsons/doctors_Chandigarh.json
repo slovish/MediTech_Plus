@@ -1,0 +1,231 @@
+[
+    {
+        "name": "Biju Bumb",
+        "city": "Chandigarh",
+        "specialization": "Cardiologist",
+        "hospital": "Sami Ltd",
+        "age": 51,
+        "rating": 3.0,
+        "email": "bijubumb@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Saturday",
+            "Friday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Ishaan Sami",
+        "city": "Chandigarh",
+        "specialization": "Pediatrician",
+        "hospital": "Dalal LLC",
+        "age": 52,
+        "rating": 4.2,
+        "email": "ishaansami@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Piya Vig",
+        "city": "Chandigarh",
+        "specialization": "Gynecologist",
+        "hospital": "Sarma-Khatri",
+        "age": 45,
+        "rating": 3.6,
+        "email": "piyavig@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Friday",
+            "Sunday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Rania Deep",
+        "city": "Chandigarh",
+        "specialization": "Gynecologist",
+        "hospital": "Mammen and Sons",
+        "age": 25,
+        "rating": 3.9,
+        "email": "raniadeep@gmail.com",
+        "available_days": [
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Sunday",
+            "Tuesday",
+            "Saturday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Drishya Sawhney",
+        "city": "Chandigarh",
+        "specialization": "Psychiatrist",
+        "hospital": "Tara-Banik",
+        "age": 62,
+        "rating": 4.9,
+        "email": "drishyasawhney@gmail.com",
+        "available_days": [
+            "Friday",
+            "Monday",
+            "Saturday",
+            "Wednesday",
+            "Thursday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Ojas Bhatt",
+        "city": "Chandigarh",
+        "specialization": "Cardiologist",
+        "hospital": "Cherian, Kalita and Tiwari",
+        "age": 27,
+        "rating": 4.5,
+        "email": "ojasbhatt@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Umang Garg",
+        "city": "Chandigarh",
+        "specialization": "Endocrinologist",
+        "hospital": "De, Vasa and Kannan",
+        "age": 31,
+        "rating": 3.9,
+        "email": "umanggarg@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Hansh Brahmbhatt",
+        "city": "Chandigarh",
+        "specialization": "Radiologist",
+        "hospital": "Grewal, Tella and Vaidya",
+        "age": 31,
+        "rating": 4.6,
+        "email": "hanshbrahmbhatt@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Saturday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Ishaan Setty",
+        "city": "Chandigarh",
+        "specialization": "Oncologist",
+        "hospital": "Biswas, Varkey and Shan",
+        "age": 65,
+        "rating": 3.7,
+        "email": "ishaansetty@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Khushi Dhillon",
+        "city": "Chandigarh",
+        "specialization": "Surgeon",
+        "hospital": "Bhalla-Madan",
+        "age": 51,
+        "rating": 4.5,
+        "email": "khushidhillon@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Aarav Kota",
+        "city": "Chandigarh",
+        "specialization": "Radiologist",
+        "hospital": "Bhakta, Mannan and Goel",
+        "age": 61,
+        "rating": 3.5,
+        "email": "aaravkota@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Kavya Bains",
+        "city": "Chandigarh",
+        "specialization": "Cardiologist",
+        "hospital": "Taneja LLC",
+        "age": 25,
+        "rating": 4.0,
+        "email": "kavyabains@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Monday",
+            "Saturday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Dishani Wason",
+        "city": "Chandigarh",
+        "specialization": "Cardiologist",
+        "hospital": "Zachariah Group",
+        "age": 35,
+        "rating": 3.9,
+        "email": "dishaniwason@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Sunday",
+            "Tuesday",
+            "Thursday",
+            "Monday",
+            "Friday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Amira Chhabra",
+        "city": "Chandigarh",
+        "specialization": "Dermatologist",
+        "hospital": "Das Group",
+        "age": 27,
+        "rating": 3.9,
+        "email": "amirachhabra@gmail.com",
+        "available_days": [
+            "Friday",
+            "Sunday",
+            "Wednesday",
+            "Monday",
+            "Tuesday",
+            "Saturday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Tushar Balan",
+        "city": "Chandigarh",
+        "specialization": "Surgeon",
+        "hospital": "Doshi-Varughese",
+        "age": 27,
+        "rating": 3.7,
+        "email": "tusharbalan@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Thursday",
+            "Tuesday",
+            "Wednesday",
+            "Saturday",
+            "Friday"
+        ]
+    }
+]

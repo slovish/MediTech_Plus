@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Oorja Chaudhry",
+        "city": "Pune",
+        "specialization": "Endocrinologist",
+        "hospital": "Chaudhari Inc",
+        "age": 67,
+        "rating": 4.4,
+        "email": "oorjachaudhry@gmail.com",
+        "available_days": [
+            "Friday",
+            "Tuesday",
+            "Saturday",
+            "Thursday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Akarsh Gaba",
+        "city": "Pune",
+        "specialization": "Neurologist",
+        "hospital": "Mahajan-Sane",
+        "age": 39,
+        "rating": 4.4,
+        "email": "akarshgaba@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Sunday",
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Suhana Garg",
+        "city": "Pune",
+        "specialization": "Surgeon",
+        "hospital": "Raja PLC",
+        "age": 55,
+        "rating": 3.9,
+        "email": "suhanagarg@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Arnav Butala",
+        "city": "Pune",
+        "specialization": "Cardiologist",
+        "hospital": "Jaggi, Sant and Malhotra",
+        "age": 51,
+        "rating": 3.0,
+        "email": "arnavbutala@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Saturday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Piya Badal",
+        "city": "Pune",
+        "specialization": "Surgeon",
+        "hospital": "Jayaraman-Gill",
+        "age": 57,
+        "rating": 3.0,
+        "email": "piyabadal@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Navya Sharaf",
+        "city": "Pune",
+        "specialization": "Neurologist",
+        "hospital": "Joshi PLC",
+        "age": 33,
+        "rating": 4.2,
+        "email": "navyasharaf@gmail.com",
+        "available_days": [
+            "Friday",
+            "Monday",
+            "Sunday",
+            "Thursday",
+            "Tuesday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Aarna Boase",
+        "city": "Pune",
+        "specialization": "Oncologist",
+        "hospital": "Madan and Sons",
+        "age": 51,
+        "rating": 3.4,
+        "email": "aarnaboase@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Tuesday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Neysa Barman",
+        "city": "Pune",
+        "specialization": "Neurologist",
+        "hospital": "Arya LLC",
+        "age": 44,
+        "rating": 4.3,
+        "email": "neysabarman@gmail.com",
+        "available_days": [
+            "Monday",
+            "Thursday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Yakshit Maharaj",
+        "city": "Pune",
+        "specialization": "Endocrinologist",
+        "hospital": "Swaminathan, Samra and Sarkar",
+        "age": 29,
+        "rating": 4.2,
+        "email": "yakshitmaharaj@gmail.com",
+        "available_days": [
+            "Monday",
+            "Friday",
+            "Sunday",
+            "Tuesday",
+            "Thursday",
+            "Saturday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Nitya Khalsa",
+        "city": "Pune",
+        "specialization": "Surgeon",
+        "hospital": "Talwar, Keer and Bail",
+        "age": 42,
+        "rating": 4.4,
+        "email": "nityakhalsa@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Saturday",
+            "Monday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Uthkarsh Samra",
+        "city": "Pune",
+        "specialization": "Psychiatrist",
+        "hospital": "Bhatt-Vora",
+        "age": 45,
+        "rating": 4.6,
+        "email": "uthkarshsamra@gmail.com",
+        "available_days": [
+            "Friday",
+            "Monday",
+            "Thursday",
+            "Tuesday",
+            "Saturday",
+            "Wednesday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Sana Bava",
+        "city": "Pune",
+        "specialization": "Cardiologist",
+        "hospital": "Toor, Chaudhuri and Chanda",
+        "age": 48,
+        "rating": 3.4,
+        "email": "sanabava@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Sunday",
+            "Monday",
+            "Saturday",
+            "Thursday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Yakshit Dara",
+        "city": "Pune",
+        "specialization": "Oncologist",
+        "hospital": "Dhar and Sons",
+        "age": 33,
+        "rating": 3.3,
+        "email": "yakshitdara@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Thursday",
+            "Sunday",
+            "Tuesday",
+            "Friday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Shalv Balan",
+        "city": "Pune",
+        "specialization": "Pediatrician",
+        "hospital": "Butala-Golla",
+        "age": 31,
+        "rating": 4.3,
+        "email": "shalvbalan@gmail.com",
+        "available_days": [
+            "Monday",
+            "Friday",
+            "Thursday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Farhan Ghose",
+        "city": "Pune",
+        "specialization": "Cardiologist",
+        "hospital": "Kohli-Sangha",
+        "age": 53,
+        "rating": 3.2,
+        "email": "farhanghose@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Wednesday"
+        ]
+    }
+]

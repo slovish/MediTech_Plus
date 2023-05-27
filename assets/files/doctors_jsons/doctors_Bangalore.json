@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Aarna Varma",
+        "city": "Bangalore",
+        "specialization": "Neurologist",
+        "hospital": "Aurora, Lal and Baria",
+        "age": 69,
+        "rating": 3.5,
+        "email": "aarnavarma@gmail.com",
+        "available_days": [
+            "Friday",
+            "Saturday",
+            "Thursday",
+            "Tuesday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Saksham Konda",
+        "city": "Bangalore",
+        "specialization": "Cardiologist",
+        "hospital": "Vig Ltd",
+        "age": 61,
+        "rating": 3.3,
+        "email": "sakshamkonda@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Tuesday",
+            "Friday",
+            "Sunday",
+            "Thursday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Saksham Bhakta",
+        "city": "Bangalore",
+        "specialization": "Neurologist",
+        "hospital": "Dugar and Sons",
+        "age": 60,
+        "rating": 3.0,
+        "email": "sakshambhakta@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Saturday",
+            "Sunday",
+            "Friday",
+            "Tuesday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Sahil De",
+        "city": "Bangalore",
+        "specialization": "Surgeon",
+        "hospital": "Bhat Inc",
+        "age": 57,
+        "rating": 4.0,
+        "email": "sahilde@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Thursday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Saanvi Ravi",
+        "city": "Bangalore",
+        "specialization": "Surgeon",
+        "hospital": "Loyal-Wali",
+        "age": 45,
+        "rating": 4.1,
+        "email": "saanviravi@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Monday",
+            "Tuesday",
+            "Friday",
+            "Wednesday",
+            "Thursday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Arhaan Balay",
+        "city": "Bangalore",
+        "specialization": "Dermatologist",
+        "hospital": "Seshadri Group",
+        "age": 59,
+        "rating": 3.9,
+        "email": "arhaanbalay@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Sunday",
+            "Saturday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Devansh Sathe",
+        "city": "Bangalore",
+        "specialization": "Gynecologist",
+        "hospital": "Shah PLC",
+        "age": 26,
+        "rating": 3.2,
+        "email": "devanshsathe@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Sunday",
+            "Wednesday",
+            "Saturday",
+            "Friday",
+            "Tuesday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Biju Srinivas",
+        "city": "Bangalore",
+        "specialization": "Oncologist",
+        "hospital": "Dave PLC",
+        "age": 56,
+        "rating": 3.8,
+        "email": "bijusrinivas@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Wednesday",
+            "Sunday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Hiran Sankaran",
+        "city": "Bangalore",
+        "specialization": "Surgeon",
+        "hospital": "Jaggi, Thaman and Taneja",
+        "age": 40,
+        "rating": 4.0,
+        "email": "hiransankaran@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Monday",
+            "Thursday",
+            "Tuesday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Ryan Batra",
+        "city": "Bangalore",
+        "specialization": "Pediatrician",
+        "hospital": "Sastry LLC",
+        "age": 33,
+        "rating": 3.5,
+        "email": "ryanbatra@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Aradhya Kashyap",
+        "city": "Bangalore",
+        "specialization": "Radiologist",
+        "hospital": "Mangat-Cherian",
+        "age": 34,
+        "rating": 3.7,
+        "email": "aradhyakashyap@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Tuesday",
+            "Sunday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Dhanuk Dar",
+        "city": "Bangalore",
+        "specialization": "Surgeon",
+        "hospital": "Dugal, Deo and Vyas",
+        "age": 66,
+        "rating": 3.9,
+        "email": "dhanukdar@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Friday",
+            "Thursday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Bhamini Dada",
+        "city": "Bangalore",
+        "specialization": "Oncologist",
+        "hospital": "Dugal and Sons",
+        "age": 48,
+        "rating": 4.3,
+        "email": "bhaminidada@gmail.com",
+        "available_days": [
+            "Monday",
+            "Sunday",
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Urvi Das",
+        "city": "Bangalore",
+        "specialization": "Neurologist",
+        "hospital": "Shukla and Sons",
+        "age": 34,
+        "rating": 4.5,
+        "email": "urvidas@gmail.com",
+        "available_days": [
+            "Monday",
+            "Saturday",
+            "Friday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Veer Kala",
+        "city": "Bangalore",
+        "specialization": "Psychiatrist",
+        "hospital": "Magar, Varty and Soman",
+        "age": 68,
+        "rating": 4.3,
+        "email": "veerkala@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Thursday",
+            "Monday",
+            "Sunday"
+        ]
+    }
+]

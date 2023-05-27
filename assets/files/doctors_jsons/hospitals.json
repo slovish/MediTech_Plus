@@ -1,0 +1,2622 @@
+[
+  [
+    {
+      "name": "Vaidya and Sons",
+      "city": "Mumbai",
+      "rating": 2.3,
+      "contact_number": "04956624611",
+      "services_available": [
+        "Colonoscopy",
+        "ECG",
+        "ECG",
+        "Mammogram",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Savant and Sons",
+      "city": "Mumbai",
+      "rating": 3.1,
+      "contact_number": "8048869152",
+      "services_available": [
+        "Ultrasound",
+        "ECG",
+        "Mammogram",
+        "X-ray",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Bose-Handa",
+      "city": "Mumbai",
+      "rating": 3.6,
+      "contact_number": "02786296896",
+      "services_available": [
+        "Dialysis",
+        "CT scan",
+        "X-ray",
+        "Mammogram",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Khurana-Dixit",
+      "city": "Mumbai",
+      "rating": 1.8,
+      "contact_number": "02481833223",
+      "services_available": [
+        "CT scan",
+        "Endoscopy",
+        "Colonoscopy",
+        "Ultrasound",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Sagar-Bir",
+      "city": "Mumbai",
+      "rating": 1.1,
+      "contact_number": "05658940457",
+      "services_available": [
+        "CT scan",
+        "Endoscopy",
+        "Colonoscopy",
+        "CT scan",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Bhandari Ltd",
+      "city": "Mumbai",
+      "rating": 3.9,
+      "contact_number": "+917458165767",
+      "services_available": [
+        "ECG",
+        "ECG",
+        "Blood test",
+        "Echocardiogram",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Dugal Group",
+      "city": "Mumbai",
+      "rating": 4.7,
+      "contact_number": "+912842900789",
+      "services_available": [
+        "Ultrasound",
+        "Colonoscopy",
+        "MRI scan",
+        "Endoscopy",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Deshpande-Gola",
+      "city": "Mumbai",
+      "rating": 3.3,
+      "contact_number": "3376221040",
+      "services_available": [
+        "ECG",
+        "Mammogram",
+        "CT scan",
+        "Mammogram",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Sen, Mani and Manda",
+      "city": "Mumbai",
+      "rating": 1.0,
+      "contact_number": "+914285627857",
+      "services_available": [
+        "Ultrasound",
+        "Endoscopy",
+        "Colonoscopy",
+        "Dialysis",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Ram Group",
+      "city": "Mumbai",
+      "rating": 1.5,
+      "contact_number": "+916083071694",
+      "services_available": [
+        "X-ray",
+        "Mammogram",
+        "Colonoscopy",
+        "Endoscopy",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Chowdhury, Saran and Chander",
+      "city": "Mumbai",
+      "rating": 1.6,
+      "contact_number": "03615539346",
+      "services_available": [
+        "X-ray",
+        "Ultrasound",
+        "X-ray",
+        "X-ray",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Saini and Sons",
+      "city": "Mumbai",
+      "rating": 3.1,
+      "contact_number": "07072348773",
+      "services_available": [
+        "Dialysis",
+        "Colonoscopy",
+        "MRI scan",
+        "Echocardiogram",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Chakraborty Group",
+      "city": "Mumbai",
+      "rating": 2.5,
+      "contact_number": "08617638235",
+      "services_available": [
+        "Blood test",
+        "ECG",
+        "Dialysis",
+        "CT scan",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "D\u2019Alia, Bhattacharyya and Chaudhari",
+      "city": "Mumbai",
+      "rating": 4.4,
+      "contact_number": "5818412367",
+      "services_available": [
+        "Blood test",
+        "ECG",
+        "Endoscopy",
+        "Colonoscopy",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Varma, Tank and Mangal",
+      "city": "Mumbai",
+      "rating": 3.0,
+      "contact_number": "9461833786",
+      "services_available": [
+        "Blood test",
+        "MRI scan",
+        "Mammogram",
+        "Echocardiogram",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Brar, Cheema and Kala",
+      "city": "Mumbai",
+      "rating": 2.6,
+      "contact_number": "+912733736471",
+      "services_available": [
+        "CT scan",
+        "Colonoscopy",
+        "ECG",
+        "Ultrasound",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Srinivas-Wadhwa",
+      "city": "Mumbai",
+      "rating": 3.0,
+      "contact_number": "0487679300",
+      "services_available": [
+        "Echocardiogram",
+        "MRI scan",
+        "Ultrasound",
+        "MRI scan",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Banik PLC",
+      "city": "Mumbai",
+      "rating": 4.8,
+      "contact_number": "06717189363",
+      "services_available": [
+        "Blood test",
+        "Dialysis",
+        "X-ray",
+        "Echocardiogram",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Seth-Jani",
+      "city": "Mumbai",
+      "rating": 4.9,
+      "contact_number": "09547976292",
+      "services_available": [
+        "ECG",
+        "Endoscopy",
+        "Colonoscopy",
+        "Colonoscopy",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Sama-Chakraborty",
+      "city": "Mumbai",
+      "rating": 2.8,
+      "contact_number": "1909477849",
+      "services_available": [
+        "Colonoscopy",
+        "MRI scan",
+        "ECG",
+        "Echocardiogram",
+        "Ultrasound"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Gole, Rattan and Dhar",
+      "city": "Bangalore",
+      "rating": 1.7,
+      "contact_number": "01450694111",
+      "services_available": [
+        "Blood test",
+        "Colonoscopy",
+        "Ultrasound",
+        "ECG",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Konda, Yogi and Subramanian",
+      "city": "Bangalore",
+      "rating": 2.8,
+      "contact_number": "3951924621",
+      "services_available": [
+        "Dialysis",
+        "ECG",
+        "Blood test",
+        "X-ray",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Choudhary-Grover",
+      "city": "Bangalore",
+      "rating": 1.1,
+      "contact_number": "7105312207",
+      "services_available": [
+        "ECG",
+        "Endoscopy",
+        "Echocardiogram",
+        "Colonoscopy",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Khalsa and Sons",
+      "city": "Bangalore",
+      "rating": 2.4,
+      "contact_number": "1310746858",
+      "services_available": [
+        "Blood test",
+        "Endoscopy",
+        "Colonoscopy",
+        "X-ray",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Sunder, Ram and Devan",
+      "city": "Bangalore",
+      "rating": 4.0,
+      "contact_number": "+910465471128",
+      "services_available": [
+        "Colonoscopy",
+        "Blood test",
+        "ECG",
+        "Echocardiogram",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Sachar, Chahal and Din",
+      "city": "Bangalore",
+      "rating": 3.9,
+      "contact_number": "+917370333902",
+      "services_available": [
+        "Colonoscopy",
+        "ECG",
+        "Ultrasound",
+        "ECG",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Gera PLC",
+      "city": "Bangalore",
+      "rating": 1.4,
+      "contact_number": "+915284186976",
+      "services_available": [
+        "Blood test",
+        "X-ray",
+        "ECG",
+        "Colonoscopy",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Chaudhry-Gandhi",
+      "city": "Bangalore",
+      "rating": 4.4,
+      "contact_number": "+914438506477",
+      "services_available": [
+        "CT scan",
+        "Dialysis",
+        "Ultrasound",
+        "X-ray",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Kapoor LLC",
+      "city": "Bangalore",
+      "rating": 3.7,
+      "contact_number": "3597494623",
+      "services_available": [
+        "Echocardiogram",
+        "X-ray",
+        "Endoscopy",
+        "MRI scan",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Sanghvi, Soni and Singhal",
+      "city": "Bangalore",
+      "rating": 1.5,
+      "contact_number": "04068785978",
+      "services_available": [
+        "Mammogram",
+        "Mammogram",
+        "Colonoscopy",
+        "Blood test",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Sabharwal PLC",
+      "city": "Bangalore",
+      "rating": 4.4,
+      "contact_number": "05172989435",
+      "services_available": [
+        "Ultrasound",
+        "MRI scan",
+        "Blood test",
+        "Endoscopy",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Hayre, Tara and Aurora",
+      "city": "Bangalore",
+      "rating": 2.0,
+      "contact_number": "01543208872",
+      "services_available": [
+        "Ultrasound",
+        "Mammogram",
+        "Dialysis",
+        "Endoscopy",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Atwal-Sathe",
+      "city": "Bangalore",
+      "rating": 3.0,
+      "contact_number": "00590791941",
+      "services_available": [
+        "Endoscopy",
+        "Ultrasound",
+        "Mammogram",
+        "Colonoscopy",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Lala Group",
+      "city": "Bangalore",
+      "rating": 4.3,
+      "contact_number": "06947638752",
+      "services_available": [
+        "CT scan",
+        "Echocardiogram",
+        "ECG",
+        "MRI scan",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Lal PLC",
+      "city": "Bangalore",
+      "rating": 4.8,
+      "contact_number": "+911861726158",
+      "services_available": [
+        "Echocardiogram",
+        "MRI scan",
+        "CT scan",
+        "MRI scan",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Sama, Shankar and Mammen",
+      "city": "Bangalore",
+      "rating": 2.9,
+      "contact_number": "3437696669",
+      "services_available": [
+        "Endoscopy",
+        "MRI scan",
+        "MRI scan",
+        "Mammogram",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Ramaswamy-Manda",
+      "city": "Bangalore",
+      "rating": 4.7,
+      "contact_number": "+915808114658",
+      "services_available": [
+        "Echocardiogram",
+        "CT scan",
+        "Colonoscopy",
+        "MRI scan",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Magar LLC",
+      "city": "Bangalore",
+      "rating": 4.3,
+      "contact_number": "+916195805608",
+      "services_available": [
+        "Mammogram",
+        "Endoscopy",
+        "Endoscopy",
+        "Mammogram",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Chad-Wadhwa",
+      "city": "Bangalore",
+      "rating": 4.9,
+      "contact_number": "2195658759",
+      "services_available": [
+        "X-ray",
+        "Endoscopy",
+        "Endoscopy",
+        "Mammogram",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Bath Ltd",
+      "city": "Bangalore",
+      "rating": 4.2,
+      "contact_number": "+914068853615",
+      "services_available": [
+        "Dialysis",
+        "X-ray",
+        "CT scan",
+        "Blood test",
+        "Blood test"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Sane-Chopra",
+      "city": "Chennai",
+      "rating": 2.1,
+      "contact_number": "07019705071",
+      "services_available": [
+        "CT scan",
+        "Ultrasound",
+        "Dialysis",
+        "Mammogram",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Sarma-Butala",
+      "city": "Chennai",
+      "rating": 4.2,
+      "contact_number": "4783938708",
+      "services_available": [
+        "Blood test",
+        "Colonoscopy",
+        "Blood test",
+        "CT scan",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Dhawan-Dass",
+      "city": "Chennai",
+      "rating": 1.1,
+      "contact_number": "+916218615543",
+      "services_available": [
+        "Blood test",
+        "X-ray",
+        "MRI scan",
+        "Ultrasound",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Walla, Dubey and Chopra",
+      "city": "Chennai",
+      "rating": 4.5,
+      "contact_number": "+915421660488",
+      "services_available": [
+        "Mammogram",
+        "Blood test",
+        "MRI scan",
+        "MRI scan",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Rege-Deshpande",
+      "city": "Chennai",
+      "rating": 1.3,
+      "contact_number": "+917790041296",
+      "services_available": [
+        "MRI scan",
+        "MRI scan",
+        "Blood test",
+        "Blood test",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Apte Ltd",
+      "city": "Chennai",
+      "rating": 2.1,
+      "contact_number": "+916331182183",
+      "services_available": [
+        "X-ray",
+        "CT scan",
+        "ECG",
+        "X-ray",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Sarraf-Dara",
+      "city": "Chennai",
+      "rating": 4.5,
+      "contact_number": "7992150414",
+      "services_available": [
+        "X-ray",
+        "Colonoscopy",
+        "Endoscopy",
+        "Mammogram",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Khurana, Gupta and Madan",
+      "city": "Chennai",
+      "rating": 1.8,
+      "contact_number": "03122082768",
+      "services_available": [
+        "Colonoscopy",
+        "CT scan",
+        "Ultrasound",
+        "Echocardiogram",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Walla, Rout and Thaker",
+      "city": "Chennai",
+      "rating": 2.8,
+      "contact_number": "0887781873",
+      "services_available": [
+        "CT scan",
+        "Endoscopy",
+        "Colonoscopy",
+        "Dialysis",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Jani, Brar and Som",
+      "city": "Chennai",
+      "rating": 2.2,
+      "contact_number": "2246651526",
+      "services_available": [
+        "Blood test",
+        "CT scan",
+        "Echocardiogram",
+        "X-ray",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Suresh, Mane and Jayaraman",
+      "city": "Chennai",
+      "rating": 2.5,
+      "contact_number": "03521255168",
+      "services_available": [
+        "ECG",
+        "X-ray",
+        "X-ray",
+        "Endoscopy",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Karnik-Chander",
+      "city": "Chennai",
+      "rating": 4.1,
+      "contact_number": "+913073782374",
+      "services_available": [
+        "Dialysis",
+        "Blood test",
+        "Mammogram",
+        "Mammogram",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Lad and Sons",
+      "city": "Chennai",
+      "rating": 3.1,
+      "contact_number": "1416580138",
+      "services_available": [
+        "MRI scan",
+        "ECG",
+        "Blood test",
+        "Blood test",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Barad-Varghese",
+      "city": "Chennai",
+      "rating": 2.4,
+      "contact_number": "00097521563",
+      "services_available": [
+        "Endoscopy",
+        "X-ray",
+        "CT scan",
+        "Mammogram",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Bahl and Sons",
+      "city": "Chennai",
+      "rating": 3.3,
+      "contact_number": "03997623510",
+      "services_available": [
+        "Dialysis",
+        "ECG",
+        "Endoscopy",
+        "ECG",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Shukla Inc",
+      "city": "Chennai",
+      "rating": 2.1,
+      "contact_number": "04781041606",
+      "services_available": [
+        "ECG",
+        "MRI scan",
+        "Echocardiogram",
+        "Echocardiogram",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Kunda and Sons",
+      "city": "Chennai",
+      "rating": 4.4,
+      "contact_number": "2960063784",
+      "services_available": [
+        "ECG",
+        "ECG",
+        "Ultrasound",
+        "Echocardiogram",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Savant-Gandhi",
+      "city": "Chennai",
+      "rating": 1.7,
+      "contact_number": "+915335269541",
+      "services_available": [
+        "Mammogram",
+        "X-ray",
+        "Endoscopy",
+        "ECG",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Lala, Aggarwal and Behl",
+      "city": "Chennai",
+      "rating": 1.3,
+      "contact_number": "+917107874162",
+      "services_available": [
+        "Mammogram",
+        "Echocardiogram",
+        "ECG",
+        "Ultrasound",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Taneja Ltd",
+      "city": "Chennai",
+      "rating": 1.5,
+      "contact_number": "09079848470",
+      "services_available": [
+        "Blood test",
+        "MRI scan",
+        "Mammogram",
+        "ECG",
+        "Colonoscopy"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Bajwa-Joshi",
+      "city": "Delhi",
+      "rating": 2.0,
+      "contact_number": "0637493291",
+      "services_available": [
+        "Endoscopy",
+        "Dialysis",
+        "Echocardiogram",
+        "Colonoscopy",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Sant-Shankar",
+      "city": "Delhi",
+      "rating": 2.6,
+      "contact_number": "+910498772264",
+      "services_available": [
+        "MRI scan",
+        "ECG",
+        "Mammogram",
+        "MRI scan",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Tara, Bhatia and Khanna",
+      "city": "Delhi",
+      "rating": 3.4,
+      "contact_number": "+912728598484",
+      "services_available": [
+        "ECG",
+        "ECG",
+        "Endoscopy",
+        "Dialysis",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Mangal Group",
+      "city": "Delhi",
+      "rating": 1.6,
+      "contact_number": "07328628958",
+      "services_available": [
+        "Echocardiogram",
+        "Echocardiogram",
+        "ECG",
+        "MRI scan",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Som, Arya and Hora",
+      "city": "Delhi",
+      "rating": 4.1,
+      "contact_number": "+915857878846",
+      "services_available": [
+        "Colonoscopy",
+        "Blood test",
+        "Ultrasound",
+        "Dialysis",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Samra Ltd",
+      "city": "Delhi",
+      "rating": 3.8,
+      "contact_number": "09847618903",
+      "services_available": [
+        "Echocardiogram",
+        "Blood test",
+        "CT scan",
+        "Endoscopy",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Chakraborty, Lad and Raja",
+      "city": "Delhi",
+      "rating": 1.5,
+      "contact_number": "1236928513",
+      "services_available": [
+        "Echocardiogram",
+        "Dialysis",
+        "Echocardiogram",
+        "Dialysis",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Arora-Dewan",
+      "city": "Delhi",
+      "rating": 3.3,
+      "contact_number": "04107002556",
+      "services_available": [
+        "Dialysis",
+        "Endoscopy",
+        "Blood test",
+        "Blood test",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Sagar and Sons",
+      "city": "Delhi",
+      "rating": 1.3,
+      "contact_number": "00774324637",
+      "services_available": [
+        "Colonoscopy",
+        "Blood test",
+        "MRI scan",
+        "Mammogram",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Shan-Kapadia",
+      "city": "Delhi",
+      "rating": 4.5,
+      "contact_number": "02191171917",
+      "services_available": [
+        "Endoscopy",
+        "X-ray",
+        "Dialysis",
+        "CT scan",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Sahota Group",
+      "city": "Delhi",
+      "rating": 4.5,
+      "contact_number": "+915483032821",
+      "services_available": [
+        "Dialysis",
+        "CT scan",
+        "Echocardiogram",
+        "Colonoscopy",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Tripathi-Ravi",
+      "city": "Delhi",
+      "rating": 4.0,
+      "contact_number": "8191597457",
+      "services_available": [
+        "Blood test",
+        "ECG",
+        "Ultrasound",
+        "CT scan",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Gokhale-Sant",
+      "city": "Delhi",
+      "rating": 3.8,
+      "contact_number": "7857749923",
+      "services_available": [
+        "Blood test",
+        "Echocardiogram",
+        "Endoscopy",
+        "MRI scan",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Kaur and Sons",
+      "city": "Delhi",
+      "rating": 1.2,
+      "contact_number": "08747022088",
+      "services_available": [
+        "Endoscopy",
+        "X-ray",
+        "Endoscopy",
+        "Dialysis",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Sathe Inc",
+      "city": "Delhi",
+      "rating": 2.5,
+      "contact_number": "+913375236030",
+      "services_available": [
+        "Blood test",
+        "Ultrasound",
+        "Mammogram",
+        "CT scan",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Mall LLC",
+      "city": "Delhi",
+      "rating": 1.3,
+      "contact_number": "1216051701",
+      "services_available": [
+        "ECG",
+        "Colonoscopy",
+        "CT scan",
+        "ECG",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Dhaliwal-Taneja",
+      "city": "Delhi",
+      "rating": 3.6,
+      "contact_number": "+914486011179",
+      "services_available": [
+        "Mammogram",
+        "Colonoscopy",
+        "Echocardiogram",
+        "Dialysis",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Srinivas-Borde",
+      "city": "Delhi",
+      "rating": 3.4,
+      "contact_number": "+918403286872",
+      "services_available": [
+        "MRI scan",
+        "Dialysis",
+        "ECG",
+        "X-ray",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Chaudry, Kakar and Sharma",
+      "city": "Delhi",
+      "rating": 4.3,
+      "contact_number": "+910219359573",
+      "services_available": [
+        "Echocardiogram",
+        "Ultrasound",
+        "Echocardiogram",
+        "Blood test",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Sandal-Atwal",
+      "city": "Delhi",
+      "rating": 4.6,
+      "contact_number": "04960482663",
+      "services_available": [
+        "CT scan",
+        "Colonoscopy",
+        "CT scan",
+        "Endoscopy",
+        "MRI scan"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Mand, Sachar and Issac",
+      "city": "Hyderabad",
+      "rating": 1.4,
+      "contact_number": "07880441276",
+      "services_available": [
+        "CT scan",
+        "Mammogram",
+        "Dialysis",
+        "Echocardiogram",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Rau Inc",
+      "city": "Hyderabad",
+      "rating": 2.4,
+      "contact_number": "3374056297",
+      "services_available": [
+        "Blood test",
+        "X-ray",
+        "Echocardiogram",
+        "Echocardiogram",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Bajaj and Sons",
+      "city": "Hyderabad",
+      "rating": 3.3,
+      "contact_number": "+911142036872",
+      "services_available": [
+        "Echocardiogram",
+        "X-ray",
+        "MRI scan",
+        "ECG",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Wason, Gill and Seth",
+      "city": "Hyderabad",
+      "rating": 1.2,
+      "contact_number": "6114232661",
+      "services_available": [
+        "ECG",
+        "ECG",
+        "MRI scan",
+        "CT scan",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Chandra PLC",
+      "city": "Hyderabad",
+      "rating": 1.5,
+      "contact_number": "1446198801",
+      "services_available": [
+        "Echocardiogram",
+        "Mammogram",
+        "X-ray",
+        "Dialysis",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Tank Inc",
+      "city": "Hyderabad",
+      "rating": 4.6,
+      "contact_number": "09375303518",
+      "services_available": [
+        "MRI scan",
+        "Dialysis",
+        "Endoscopy",
+        "Colonoscopy",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Sane-Ramakrishnan",
+      "city": "Hyderabad",
+      "rating": 4.6,
+      "contact_number": "07119654580",
+      "services_available": [
+        "Echocardiogram",
+        "ECG",
+        "Endoscopy",
+        "Dialysis",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Vohra PLC",
+      "city": "Hyderabad",
+      "rating": 1.2,
+      "contact_number": "+914549716909",
+      "services_available": [
+        "MRI scan",
+        "Echocardiogram",
+        "Endoscopy",
+        "Dialysis",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Char, Sunder and Kumer",
+      "city": "Hyderabad",
+      "rating": 4.0,
+      "contact_number": "+915752027666",
+      "services_available": [
+        "Endoscopy",
+        "ECG",
+        "Colonoscopy",
+        "ECG",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Mall-Ghose",
+      "city": "Hyderabad",
+      "rating": 3.4,
+      "contact_number": "+911326380848",
+      "services_available": [
+        "Endoscopy",
+        "Mammogram",
+        "Mammogram",
+        "Echocardiogram",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Sood, Madan and Bansal",
+      "city": "Hyderabad",
+      "rating": 3.3,
+      "contact_number": "+915426183035",
+      "services_available": [
+        "Ultrasound",
+        "Mammogram",
+        "ECG",
+        "CT scan",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Sule Inc",
+      "city": "Hyderabad",
+      "rating": 2.9,
+      "contact_number": "03018457675",
+      "services_available": [
+        "Endoscopy",
+        "Ultrasound",
+        "ECG",
+        "Mammogram",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Walia Inc",
+      "city": "Hyderabad",
+      "rating": 3.2,
+      "contact_number": "+913367087815",
+      "services_available": [
+        "MRI scan",
+        "Ultrasound",
+        "Endoscopy",
+        "Colonoscopy",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Tiwari Ltd",
+      "city": "Hyderabad",
+      "rating": 1.5,
+      "contact_number": "04907229807",
+      "services_available": [
+        "Blood test",
+        "CT scan",
+        "Ultrasound",
+        "X-ray",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Sama Inc",
+      "city": "Hyderabad",
+      "rating": 2.1,
+      "contact_number": "8803761549",
+      "services_available": [
+        "Mammogram",
+        "Endoscopy",
+        "ECG",
+        "X-ray",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Sangha, Wable and Sunder",
+      "city": "Hyderabad",
+      "rating": 2.7,
+      "contact_number": "+915393382582",
+      "services_available": [
+        "Colonoscopy",
+        "Colonoscopy",
+        "Colonoscopy",
+        "Endoscopy",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Suri, Ramesh and Tata",
+      "city": "Hyderabad",
+      "rating": 4.6,
+      "contact_number": "+914226172055",
+      "services_available": [
+        "MRI scan",
+        "CT scan",
+        "Dialysis",
+        "Colonoscopy",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Rastogi, Rau and Anne",
+      "city": "Hyderabad",
+      "rating": 1.7,
+      "contact_number": "05931477027",
+      "services_available": [
+        "MRI scan",
+        "Colonoscopy",
+        "MRI scan",
+        "X-ray",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Khurana-Gaba",
+      "city": "Hyderabad",
+      "rating": 2.2,
+      "contact_number": "07077515856",
+      "services_available": [
+        "Colonoscopy",
+        "Blood test",
+        "CT scan",
+        "Mammogram",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Sodhi, Badami and Samra",
+      "city": "Hyderabad",
+      "rating": 4.1,
+      "contact_number": "+912871549630",
+      "services_available": [
+        "X-ray",
+        "Endoscopy",
+        "CT scan",
+        "Mammogram",
+        "Mammogram"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Mallick Ltd",
+      "city": "Chandigarh",
+      "rating": 2.6,
+      "contact_number": "+915461488753",
+      "services_available": [
+        "CT scan",
+        "Ultrasound",
+        "Blood test",
+        "Blood test",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Goyal, Yogi and Srinivasan",
+      "city": "Chandigarh",
+      "rating": 3.6,
+      "contact_number": "+915911109837",
+      "services_available": [
+        "Mammogram",
+        "Blood test",
+        "Ultrasound",
+        "Dialysis",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Kota-Gour",
+      "city": "Chandigarh",
+      "rating": 3.8,
+      "contact_number": "+916406195279",
+      "services_available": [
+        "Colonoscopy",
+        "CT scan",
+        "Dialysis",
+        "Ultrasound",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Goel, Hegde and Dewan",
+      "city": "Chandigarh",
+      "rating": 3.4,
+      "contact_number": "04989586502",
+      "services_available": [
+        "MRI scan",
+        "Colonoscopy",
+        "Ultrasound",
+        "ECG",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Chada, Krishna and Handa",
+      "city": "Chandigarh",
+      "rating": 3.6,
+      "contact_number": "06276503444",
+      "services_available": [
+        "MRI scan",
+        "MRI scan",
+        "Ultrasound",
+        "Dialysis",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Dixit, Shroff and Balakrishnan",
+      "city": "Chandigarh",
+      "rating": 4.5,
+      "contact_number": "+917511792090",
+      "services_available": [
+        "Mammogram",
+        "Colonoscopy",
+        "Mammogram",
+        "Endoscopy",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Chahal-Barad",
+      "city": "Chandigarh",
+      "rating": 1.0,
+      "contact_number": "+915367120138",
+      "services_available": [
+        "Endoscopy",
+        "MRI scan",
+        "Echocardiogram",
+        "Blood test",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Edwin, Divan and Sathe",
+      "city": "Chandigarh",
+      "rating": 2.7,
+      "contact_number": "7718135239",
+      "services_available": [
+        "Ultrasound",
+        "CT scan",
+        "Colonoscopy",
+        "Mammogram",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Mani, Bumb and Badami",
+      "city": "Chandigarh",
+      "rating": 3.2,
+      "contact_number": "5769247578",
+      "services_available": [
+        "CT scan",
+        "ECG",
+        "Blood test",
+        "ECG",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Kakar Group",
+      "city": "Chandigarh",
+      "rating": 2.8,
+      "contact_number": "4559175216",
+      "services_available": [
+        "Ultrasound",
+        "X-ray",
+        "Blood test",
+        "Mammogram",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Kurian, Arora and Batta",
+      "city": "Chandigarh",
+      "rating": 3.1,
+      "contact_number": "01355229175",
+      "services_available": [
+        "X-ray",
+        "CT scan",
+        "MRI scan",
+        "MRI scan",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Dugal and Sons",
+      "city": "Chandigarh",
+      "rating": 3.9,
+      "contact_number": "9716733185",
+      "services_available": [
+        "Dialysis",
+        "Echocardiogram",
+        "MRI scan",
+        "ECG",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Subramaniam PLC",
+      "city": "Chandigarh",
+      "rating": 2.9,
+      "contact_number": "5413472479",
+      "services_available": [
+        "X-ray",
+        "Endoscopy",
+        "ECG",
+        "Colonoscopy",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Bose Inc",
+      "city": "Chandigarh",
+      "rating": 3.9,
+      "contact_number": "+912246136257",
+      "services_available": [
+        "X-ray",
+        "Colonoscopy",
+        "X-ray",
+        "CT scan",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Walla-Karpe",
+      "city": "Chandigarh",
+      "rating": 4.4,
+      "contact_number": "+913010413022",
+      "services_available": [
+        "Blood test",
+        "Mammogram",
+        "Colonoscopy",
+        "CT scan",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Sahni LLC",
+      "city": "Chandigarh",
+      "rating": 2.2,
+      "contact_number": "05888768870",
+      "services_available": [
+        "Endoscopy",
+        "ECG",
+        "Colonoscopy",
+        "Endoscopy",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Upadhyay-Garg",
+      "city": "Chandigarh",
+      "rating": 4.9,
+      "contact_number": "07087062815",
+      "services_available": [
+        "ECG",
+        "Dialysis",
+        "Echocardiogram",
+        "ECG",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Dasgupta and Sons",
+      "city": "Chandigarh",
+      "rating": 4.7,
+      "contact_number": "08664893979",
+      "services_available": [
+        "Dialysis",
+        "ECG",
+        "Dialysis",
+        "ECG",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Dara-Virk",
+      "city": "Chandigarh",
+      "rating": 2.4,
+      "contact_number": "2610046903",
+      "services_available": [
+        "Ultrasound",
+        "Endoscopy",
+        "Blood test",
+        "Dialysis",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Choudhry, Deol and Swaminathan",
+      "city": "Chandigarh",
+      "rating": 2.5,
+      "contact_number": "02746978558",
+      "services_available": [
+        "ECG",
+        "Blood test",
+        "X-ray",
+        "Endoscopy",
+        "Blood test"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Rastogi Ltd",
+      "city": "Kolkata",
+      "rating": 1.6,
+      "contact_number": "03310962172",
+      "services_available": [
+        "Blood test",
+        "Echocardiogram",
+        "Mammogram",
+        "ECG",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Talwar, Dani and Khosla",
+      "city": "Kolkata",
+      "rating": 2.0,
+      "contact_number": "+918924290153",
+      "services_available": [
+        "Ultrasound",
+        "Dialysis",
+        "Endoscopy",
+        "Ultrasound",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Ghose LLC",
+      "city": "Kolkata",
+      "rating": 4.3,
+      "contact_number": "+917401513270",
+      "services_available": [
+        "Mammogram",
+        "Mammogram",
+        "Mammogram",
+        "Dialysis",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Contractor-Shanker",
+      "city": "Kolkata",
+      "rating": 3.2,
+      "contact_number": "+913818373235",
+      "services_available": [
+        "Colonoscopy",
+        "X-ray",
+        "X-ray",
+        "Dialysis",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Hayer-Comar",
+      "city": "Kolkata",
+      "rating": 3.8,
+      "contact_number": "09513770035",
+      "services_available": [
+        "Ultrasound",
+        "Ultrasound",
+        "Echocardiogram",
+        "Colonoscopy",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Devi Inc",
+      "city": "Kolkata",
+      "rating": 4.2,
+      "contact_number": "+915929616182",
+      "services_available": [
+        "Dialysis",
+        "ECG",
+        "ECG",
+        "Dialysis",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Grewal-Bahri",
+      "city": "Kolkata",
+      "rating": 2.0,
+      "contact_number": "2365617622",
+      "services_available": [
+        "ECG",
+        "MRI scan",
+        "Endoscopy",
+        "CT scan",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Rege PLC",
+      "city": "Kolkata",
+      "rating": 3.2,
+      "contact_number": "08257966137",
+      "services_available": [
+        "X-ray",
+        "X-ray",
+        "X-ray",
+        "Echocardiogram",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Rajagopal-Gera",
+      "city": "Kolkata",
+      "rating": 2.2,
+      "contact_number": "+912412978559",
+      "services_available": [
+        "CT scan",
+        "Colonoscopy",
+        "Colonoscopy",
+        "X-ray",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Mani-Vig",
+      "city": "Kolkata",
+      "rating": 2.0,
+      "contact_number": "+911558146846",
+      "services_available": [
+        "Mammogram",
+        "Echocardiogram",
+        "Echocardiogram",
+        "CT scan",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Raja Ltd",
+      "city": "Kolkata",
+      "rating": 2.7,
+      "contact_number": "+912620309252",
+      "services_available": [
+        "Ultrasound",
+        "Echocardiogram",
+        "Echocardiogram",
+        "ECG",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Kota Inc",
+      "city": "Kolkata",
+      "rating": 1.9,
+      "contact_number": "9219013371",
+      "services_available": [
+        "Ultrasound",
+        "MRI scan",
+        "Endoscopy",
+        "CT scan",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Grewal-Sinha",
+      "city": "Kolkata",
+      "rating": 3.1,
+      "contact_number": "07445334420",
+      "services_available": [
+        "Colonoscopy",
+        "Colonoscopy",
+        "CT scan",
+        "X-ray",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Kashyap Group",
+      "city": "Kolkata",
+      "rating": 1.5,
+      "contact_number": "2707450040",
+      "services_available": [
+        "X-ray",
+        "ECG",
+        "Colonoscopy",
+        "Ultrasound",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Hegde, Gaba and Dhaliwal",
+      "city": "Kolkata",
+      "rating": 1.4,
+      "contact_number": "+912887765251",
+      "services_available": [
+        "X-ray",
+        "Ultrasound",
+        "Ultrasound",
+        "Ultrasound",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Rajan PLC",
+      "city": "Kolkata",
+      "rating": 4.3,
+      "contact_number": "05785396857",
+      "services_available": [
+        "Mammogram",
+        "MRI scan",
+        "Colonoscopy",
+        "Blood test",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Sidhu, Bal and Tailor",
+      "city": "Kolkata",
+      "rating": 2.0,
+      "contact_number": "00640347545",
+      "services_available": [
+        "X-ray",
+        "Blood test",
+        "CT scan",
+        "Echocardiogram",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Kade, Sankar and Konda",
+      "city": "Kolkata",
+      "rating": 4.1,
+      "contact_number": "0292774113",
+      "services_available": [
+        "ECG",
+        "MRI scan",
+        "Colonoscopy",
+        "Mammogram",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Butala and Sons",
+      "city": "Kolkata",
+      "rating": 2.2,
+      "contact_number": "+914295319553",
+      "services_available": [
+        "Mammogram",
+        "Colonoscopy",
+        "ECG",
+        "Blood test",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Tiwari PLC",
+      "city": "Kolkata",
+      "rating": 1.4,
+      "contact_number": "3443243258",
+      "services_available": [
+        "Colonoscopy",
+        "MRI scan",
+        "CT scan",
+        "Mammogram",
+        "Colonoscopy"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Sen, Char and Sheth",
+      "city": "Pune",
+      "rating": 4.0,
+      "contact_number": "+916218365185",
+      "services_available": [
+        "CT scan",
+        "X-ray",
+        "Blood test",
+        "Colonoscopy",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Sama and Sons",
+      "city": "Pune",
+      "rating": 4.3,
+      "contact_number": "+912881022568",
+      "services_available": [
+        "X-ray",
+        "Ultrasound",
+        "Mammogram",
+        "Dialysis",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Borde Ltd",
+      "city": "Pune",
+      "rating": 2.6,
+      "contact_number": "05040777473",
+      "services_available": [
+        "Colonoscopy",
+        "CT scan",
+        "CT scan",
+        "Echocardiogram",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Chand-Vora",
+      "city": "Pune",
+      "rating": 1.9,
+      "contact_number": "5453461362",
+      "services_available": [
+        "Mammogram",
+        "CT scan",
+        "CT scan",
+        "ECG",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Suresh-D\u2019Alia",
+      "city": "Pune",
+      "rating": 1.8,
+      "contact_number": "07422124794",
+      "services_available": [
+        "Echocardiogram",
+        "Dialysis",
+        "Echocardiogram",
+        "ECG",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Bhat-Jayaraman",
+      "city": "Pune",
+      "rating": 2.8,
+      "contact_number": "07953163883",
+      "services_available": [
+        "Ultrasound",
+        "Colonoscopy",
+        "Blood test",
+        "X-ray",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Dhillon, Dhawan and Borra",
+      "city": "Pune",
+      "rating": 4.2,
+      "contact_number": "09364294516",
+      "services_available": [
+        "Mammogram",
+        "Blood test",
+        "Echocardiogram",
+        "Ultrasound",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Dar-Kunda",
+      "city": "Pune",
+      "rating": 1.1,
+      "contact_number": "4822504752",
+      "services_available": [
+        "CT scan",
+        "CT scan",
+        "MRI scan",
+        "Colonoscopy",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Tripathi-Das",
+      "city": "Pune",
+      "rating": 2.4,
+      "contact_number": "08084984608",
+      "services_available": [
+        "MRI scan",
+        "Dialysis",
+        "Endoscopy",
+        "Echocardiogram",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Karpe PLC",
+      "city": "Pune",
+      "rating": 2.0,
+      "contact_number": "+913796530433",
+      "services_available": [
+        "Endoscopy",
+        "ECG",
+        "Ultrasound",
+        "Echocardiogram",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Sandhu PLC",
+      "city": "Pune",
+      "rating": 2.3,
+      "contact_number": "01604931545",
+      "services_available": [
+        "X-ray",
+        "X-ray",
+        "Mammogram",
+        "X-ray",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Borde-Saini",
+      "city": "Pune",
+      "rating": 3.7,
+      "contact_number": "7386472992",
+      "services_available": [
+        "Dialysis",
+        "Ultrasound",
+        "Echocardiogram",
+        "Mammogram",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Dara Group",
+      "city": "Pune",
+      "rating": 3.6,
+      "contact_number": "04231115253",
+      "services_available": [
+        "Dialysis",
+        "Ultrasound",
+        "CT scan",
+        "CT scan",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Subramanian, Trivedi and Barad",
+      "city": "Pune",
+      "rating": 1.3,
+      "contact_number": "5408928376",
+      "services_available": [
+        "Colonoscopy",
+        "Mammogram",
+        "Blood test",
+        "ECG",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Sagar LLC",
+      "city": "Pune",
+      "rating": 4.9,
+      "contact_number": "+912845470254",
+      "services_available": [
+        "Dialysis",
+        "Dialysis",
+        "ECG",
+        "CT scan",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Lata, Bail and Reddy",
+      "city": "Pune",
+      "rating": 4.9,
+      "contact_number": "+917007523617",
+      "services_available": [
+        "Echocardiogram",
+        "Dialysis",
+        "Echocardiogram",
+        "MRI scan",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Raja, Rajan and Sule",
+      "city": "Pune",
+      "rating": 3.3,
+      "contact_number": "5184553087",
+      "services_available": [
+        "ECG",
+        "ECG",
+        "MRI scan",
+        "Colonoscopy",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Bakshi, Thaker and Dave",
+      "city": "Pune",
+      "rating": 3.0,
+      "contact_number": "4630632524",
+      "services_available": [
+        "Blood test",
+        "ECG",
+        "MRI scan",
+        "Echocardiogram",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Ratta Inc",
+      "city": "Pune",
+      "rating": 2.9,
+      "contact_number": "03402118721",
+      "services_available": [
+        "Colonoscopy",
+        "Echocardiogram",
+        "Dialysis",
+        "X-ray",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Kadakia-Kohli",
+      "city": "Pune",
+      "rating": 1.2,
+      "contact_number": "+910282615410",
+      "services_available": [
+        "Endoscopy",
+        "MRI scan",
+        "Dialysis",
+        "Ultrasound",
+        "Dialysis"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Handa-Ahuja",
+      "city": "Nagpur",
+      "rating": 3.1,
+      "contact_number": "+911689840215",
+      "services_available": [
+        "Dialysis",
+        "Mammogram",
+        "Echocardiogram",
+        "ECG",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Boase, Lall and Goda",
+      "city": "Nagpur",
+      "rating": 3.3,
+      "contact_number": "03325194613",
+      "services_available": [
+        "Ultrasound",
+        "Dialysis",
+        "CT scan",
+        "Mammogram",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Bora, Bhattacharyya and Malhotra",
+      "city": "Nagpur",
+      "rating": 3.1,
+      "contact_number": "07406265680",
+      "services_available": [
+        "X-ray",
+        "CT scan",
+        "Mammogram",
+        "Echocardiogram",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Sankaran PLC",
+      "city": "Nagpur",
+      "rating": 3.1,
+      "contact_number": "+911698784211",
+      "services_available": [
+        "Endoscopy",
+        "Echocardiogram",
+        "X-ray",
+        "MRI scan",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Anand, Babu and Din",
+      "city": "Nagpur",
+      "rating": 3.6,
+      "contact_number": "05588528358",
+      "services_available": [
+        "Mammogram",
+        "X-ray",
+        "X-ray",
+        "Colonoscopy",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Chanda, Bora and Uppal",
+      "city": "Nagpur",
+      "rating": 1.6,
+      "contact_number": "8996480807",
+      "services_available": [
+        "MRI scan",
+        "Colonoscopy",
+        "Colonoscopy",
+        "ECG",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Shan, Tara and Singhal",
+      "city": "Nagpur",
+      "rating": 3.4,
+      "contact_number": "+911874173275",
+      "services_available": [
+        "Ultrasound",
+        "X-ray",
+        "ECG",
+        "Colonoscopy",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Chana PLC",
+      "city": "Nagpur",
+      "rating": 3.3,
+      "contact_number": "08674407519",
+      "services_available": [
+        "MRI scan",
+        "Blood test",
+        "Dialysis",
+        "Blood test",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Bala, Lalla and Sarma",
+      "city": "Nagpur",
+      "rating": 2.3,
+      "contact_number": "4526080541",
+      "services_available": [
+        "MRI scan",
+        "Mammogram",
+        "ECG",
+        "X-ray",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Thaker-Barad",
+      "city": "Nagpur",
+      "rating": 2.3,
+      "contact_number": "+912246194533",
+      "services_available": [
+        "Mammogram",
+        "Ultrasound",
+        "Ultrasound",
+        "Ultrasound",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Sarma-Chanda",
+      "city": "Nagpur",
+      "rating": 3.5,
+      "contact_number": "+911409475752",
+      "services_available": [
+        "MRI scan",
+        "Dialysis",
+        "ECG",
+        "Ultrasound",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Madan, Kala and Mane",
+      "city": "Nagpur",
+      "rating": 2.3,
+      "contact_number": "06316488643",
+      "services_available": [
+        "Echocardiogram",
+        "Echocardiogram",
+        "Dialysis",
+        "Endoscopy",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Edwin Inc",
+      "city": "Nagpur",
+      "rating": 1.5,
+      "contact_number": "05537492070",
+      "services_available": [
+        "MRI scan",
+        "Dialysis",
+        "CT scan",
+        "Echocardiogram",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Sibal-Atwal",
+      "city": "Nagpur",
+      "rating": 3.0,
+      "contact_number": "+917591461992",
+      "services_available": [
+        "Dialysis",
+        "CT scan",
+        "X-ray",
+        "Colonoscopy",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Solanki-Jaggi",
+      "city": "Nagpur",
+      "rating": 3.1,
+      "contact_number": "+918757827601",
+      "services_available": [
+        "Echocardiogram",
+        "Mammogram",
+        "Ultrasound",
+        "ECG",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Bhakta Inc",
+      "city": "Nagpur",
+      "rating": 1.1,
+      "contact_number": "2791558188",
+      "services_available": [
+        "Ultrasound",
+        "Colonoscopy",
+        "Mammogram",
+        "ECG",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Ramaswamy, Iyer and Chaudhari",
+      "city": "Nagpur",
+      "rating": 2.5,
+      "contact_number": "09537654046",
+      "services_available": [
+        "X-ray",
+        "CT scan",
+        "Echocardiogram",
+        "Mammogram",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Acharya PLC",
+      "city": "Nagpur",
+      "rating": 1.5,
+      "contact_number": "02402033365",
+      "services_available": [
+        "X-ray",
+        "Endoscopy",
+        "ECG",
+        "Echocardiogram",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Khalsa-Kulkarni",
+      "city": "Nagpur",
+      "rating": 4.8,
+      "contact_number": "05157837945",
+      "services_available": [
+        "Ultrasound",
+        "Ultrasound",
+        "ECG",
+        "Echocardiogram",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Sodhi, Ganesh and Handa",
+      "city": "Nagpur",
+      "rating": 1.3,
+      "contact_number": "+915168248618",
+      "services_available": [
+        "Endoscopy",
+        "Mammogram",
+        "X-ray",
+        "Ultrasound",
+        "Ultrasound"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Kakar LLC",
+      "city": "Indore",
+      "rating": 1.2,
+      "contact_number": "08552870043",
+      "services_available": [
+        "Echocardiogram",
+        "Ultrasound",
+        "MRI scan",
+        "Dialysis",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Ramesh and Sons",
+      "city": "Indore",
+      "rating": 1.7,
+      "contact_number": "03757498879",
+      "services_available": [
+        "Colonoscopy",
+        "Mammogram",
+        "Blood test",
+        "Colonoscopy",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Johal Ltd",
+      "city": "Indore",
+      "rating": 3.3,
+      "contact_number": "05487060198",
+      "services_available": [
+        "Dialysis",
+        "MRI scan",
+        "CT scan",
+        "Ultrasound",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Bajwa Ltd",
+      "city": "Indore",
+      "rating": 4.1,
+      "contact_number": "9327281588",
+      "services_available": [
+        "X-ray",
+        "Colonoscopy",
+        "Mammogram",
+        "MRI scan",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Aggarwal, Talwar and Suri",
+      "city": "Indore",
+      "rating": 3.4,
+      "contact_number": "02811928725",
+      "services_available": [
+        "X-ray",
+        "ECG",
+        "Ultrasound",
+        "CT scan",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Kalita Ltd",
+      "city": "Indore",
+      "rating": 2.7,
+      "contact_number": "1371491517",
+      "services_available": [
+        "MRI scan",
+        "Blood test",
+        "Colonoscopy",
+        "X-ray",
+        "Blood test"
+      ]
+    },
+    {
+      "name": "Dash Group",
+      "city": "Indore",
+      "rating": 1.3,
+      "contact_number": "2617901091",
+      "services_available": [
+        "ECG",
+        "Mammogram",
+        "CT scan",
+        "Blood test",
+        "Ultrasound"
+      ]
+    },
+    {
+      "name": "Bhargava, Agrawal and Mand",
+      "city": "Indore",
+      "rating": 1.8,
+      "contact_number": "06503647769",
+      "services_available": [
+        "X-ray",
+        "Echocardiogram",
+        "Dialysis",
+        "Dialysis",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Badami Group",
+      "city": "Indore",
+      "rating": 1.1,
+      "contact_number": "+918261683878",
+      "services_available": [
+        "Echocardiogram",
+        "Echocardiogram",
+        "ECG",
+        "Ultrasound",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Kala, Keer and Sunder",
+      "city": "Indore",
+      "rating": 2.0,
+      "contact_number": "+910145913981",
+      "services_available": [
+        "Dialysis",
+        "X-ray",
+        "Colonoscopy",
+        "Echocardiogram",
+        "Endoscopy"
+      ]
+    },
+    {
+      "name": "Behl PLC",
+      "city": "Indore",
+      "rating": 4.5,
+      "contact_number": "+910227984704",
+      "services_available": [
+        "X-ray",
+        "CT scan",
+        "ECG",
+        "Blood test",
+        "ECG"
+      ]
+    },
+    {
+      "name": "Subramanian-Ramakrishnan",
+      "city": "Indore",
+      "rating": 3.4,
+      "contact_number": "9244533868",
+      "services_available": [
+        "Endoscopy",
+        "CT scan",
+        "CT scan",
+        "CT scan",
+        "Echocardiogram"
+      ]
+    },
+    {
+      "name": "Tara-Mammen",
+      "city": "Indore",
+      "rating": 4.7,
+      "contact_number": "5256559190",
+      "services_available": [
+        "Mammogram",
+        "Mammogram",
+        "Colonoscopy",
+        "ECG",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Bobal, Tata and Gour",
+      "city": "Indore",
+      "rating": 1.7,
+      "contact_number": "+912268404837",
+      "services_available": [
+        "ECG",
+        "CT scan",
+        "Blood test",
+        "Ultrasound",
+        "X-ray"
+      ]
+    },
+    {
+      "name": "Zachariah-Din",
+      "city": "Indore",
+      "rating": 2.3,
+      "contact_number": "1840355053",
+      "services_available": [
+        "X-ray",
+        "Dialysis",
+        "Ultrasound",
+        "Mammogram",
+        "Colonoscopy"
+      ]
+    },
+    {
+      "name": "Bal-Kibe",
+      "city": "Indore",
+      "rating": 1.6,
+      "contact_number": "2824398714",
+      "services_available": [
+        "CT scan",
+        "Ultrasound",
+        "Blood test",
+        "MRI scan",
+        "MRI scan"
+      ]
+    },
+    {
+      "name": "Gill-Chokshi",
+      "city": "Indore",
+      "rating": 1.0,
+      "contact_number": "3118139961",
+      "services_available": [
+        "Endoscopy",
+        "CT scan",
+        "Dialysis",
+        "CT scan",
+        "Dialysis"
+      ]
+    },
+    {
+      "name": "Varma, Upadhyay and Kadakia",
+      "city": "Indore",
+      "rating": 3.8,
+      "contact_number": "2616445269",
+      "services_available": [
+        "MRI scan",
+        "CT scan",
+        "Colonoscopy",
+        "X-ray",
+        "Mammogram"
+      ]
+    },
+    {
+      "name": "Chaudhry, Warrior and Sem",
+      "city": "Indore",
+      "rating": 4.4,
+      "contact_number": "3158169265",
+      "services_available": [
+        "X-ray",
+        "Dialysis",
+        "Echocardiogram",
+        "Mammogram",
+        "CT scan"
+      ]
+    },
+    {
+      "name": "Ray PLC",
+      "city": "Indore",
+      "rating": 4.3,
+      "contact_number": "09565020133",
+      "services_available": [
+        "Echocardiogram",
+        "Mammogram",
+        "MRI scan",
+        "Mammogram",
+        "X-ray"
+      ]
+    }
+  ]
+]

@@ -1,0 +1,235 @@
+[
+    {
+        "name": "Oorja Kara",
+        "city": "Patna",
+        "specialization": "Dermatologist",
+        "hospital": "Dash-Sawhney",
+        "age": 63,
+        "rating": 3.4,
+        "email": "oorjakara@gmail.com",
+        "available_days": [
+            "Friday",
+            "Monday",
+            "Saturday",
+            "Thursday",
+            "Wednesday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Sara Shankar",
+        "city": "Patna",
+        "specialization": "Oncologist",
+        "hospital": "Chad, Bhat and Sheth",
+        "age": 25,
+        "rating": 4.7,
+        "email": "sarashankar@gmail.com",
+        "available_days": [
+            "Friday",
+            "Monday",
+            "Thursday",
+            "Sunday",
+            "Tuesday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Urvi Bahl",
+        "city": "Patna",
+        "specialization": "Gynecologist",
+        "hospital": "Ramaswamy, Rana and Rajagopal",
+        "age": 63,
+        "rating": 4.6,
+        "email": "urvibahl@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Thursday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Divit Sankaran",
+        "city": "Patna",
+        "specialization": "Radiologist",
+        "hospital": "Sarma, Trivedi and Garg",
+        "age": 28,
+        "rating": 3.7,
+        "email": "divitsankaran@gmail.com",
+        "available_days": [
+            "Monday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Suhana Sem",
+        "city": "Patna",
+        "specialization": "Surgeon",
+        "hospital": "Gill-Tella",
+        "age": 27,
+        "rating": 3.6,
+        "email": "suhanasem@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Anaya Chhabra",
+        "city": "Patna",
+        "specialization": "Psychiatrist",
+        "hospital": "Konda-Rattan",
+        "age": 33,
+        "rating": 4.4,
+        "email": "anayachhabra@gmail.com",
+        "available_days": [
+            "Friday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Ayesha Krishna",
+        "city": "Patna",
+        "specialization": "Oncologist",
+        "hospital": "Warrior, Barman and Kade",
+        "age": 50,
+        "rating": 3.0,
+        "email": "ayeshakrishna@gmail.com",
+        "available_days": [
+            "Friday",
+            "Sunday",
+            "Wednesday",
+            "Saturday",
+            "Tuesday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Adira Bath",
+        "city": "Patna",
+        "specialization": "Cardiologist",
+        "hospital": "Gade, Tak and Khare",
+        "age": 39,
+        "rating": 3.0,
+        "email": "adirabath@gmail.com",
+        "available_days": [
+            "Friday",
+            "Monday",
+            "Thursday",
+            "Sunday",
+            "Tuesday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Faiyaz Raval",
+        "city": "Patna",
+        "specialization": "Oncologist",
+        "hospital": "Gara-Mand",
+        "age": 49,
+        "rating": 4.8,
+        "email": "faiyazraval@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Friday",
+            "Thursday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Ayesha Kala",
+        "city": "Patna",
+        "specialization": "Surgeon",
+        "hospital": "Ghose and Sons",
+        "age": 35,
+        "rating": 3.6,
+        "email": "ayeshakala@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Yakshit Setty",
+        "city": "Patna",
+        "specialization": "Neurologist",
+        "hospital": "Jain, Bora and Halder",
+        "age": 39,
+        "rating": 3.3,
+        "email": "yakshitsetty@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Sunday",
+            "Tuesday",
+            "Friday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Alia Bhattacharyya",
+        "city": "Patna",
+        "specialization": "Gynecologist",
+        "hospital": "Bala-Tailor",
+        "age": 55,
+        "rating": 3.5,
+        "email": "aliabhattacharyya@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Saturday",
+            "Sunday",
+            "Thursday",
+            "Monday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Anya Gaba",
+        "city": "Patna",
+        "specialization": "Surgeon",
+        "hospital": "Mani Group",
+        "age": 30,
+        "rating": 4.1,
+        "email": "anyagaba@gmail.com",
+        "available_days": [
+            "Monday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Vivaan Sodhi",
+        "city": "Patna",
+        "specialization": "Neurologist",
+        "hospital": "Shere LLC",
+        "age": 44,
+        "rating": 3.6,
+        "email": "vivaansodhi@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Sunday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Monday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Riya Venkatesh",
+        "city": "Patna",
+        "specialization": "Dermatologist",
+        "hospital": "Bath Inc",
+        "age": 60,
+        "rating": 4.0,
+        "email": "riyavenkatesh@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Thursday",
+            "Tuesday",
+            "Saturday",
+            "Sunday"
+        ]
+    }
+]

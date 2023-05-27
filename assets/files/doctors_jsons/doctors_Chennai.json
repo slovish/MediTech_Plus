@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Hazel Goda",
+        "city": "Chennai",
+        "specialization": "Dermatologist",
+        "hospital": "Hora Inc",
+        "age": 61,
+        "rating": 4.7,
+        "email": "hazelgoda@gmail.com",
+        "available_days": [
+            "Monday",
+            "Tuesday",
+            "Sunday",
+            "Wednesday",
+            "Saturday",
+            "Thursday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Hiran Sur",
+        "city": "Chennai",
+        "specialization": "Pediatrician",
+        "hospital": "Chanda Group",
+        "age": 50,
+        "rating": 3.7,
+        "email": "hiransur@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Sunday",
+            "Monday",
+            "Wednesday",
+            "Saturday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Tanya Boase",
+        "city": "Chennai",
+        "specialization": "Neurologist",
+        "hospital": "Dhar, Tella and Bhatia",
+        "age": 58,
+        "rating": 3.8,
+        "email": "tanyaboase@gmail.com",
+        "available_days": [
+            "Monday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Yakshit Bajwa",
+        "city": "Chennai",
+        "specialization": "Pediatrician",
+        "hospital": "Karpe, Chaudhuri and Sahota",
+        "age": 35,
+        "rating": 3.1,
+        "email": "yakshitbajwa@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Monday",
+            "Thursday",
+            "Saturday",
+            "Friday",
+            "Sunday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Neelofar Barad",
+        "city": "Chennai",
+        "specialization": "Cardiologist",
+        "hospital": "Toor PLC",
+        "age": 67,
+        "rating": 4.4,
+        "email": "neelofarbarad@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Raunak Gour",
+        "city": "Chennai",
+        "specialization": "Endocrinologist",
+        "hospital": "Roy Ltd",
+        "age": 36,
+        "rating": 4.0,
+        "email": "raunakgour@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Wednesday",
+            "Thursday",
+            "Tuesday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Myra Rout",
+        "city": "Chennai",
+        "specialization": "Neurologist",
+        "hospital": "Raman-Suresh",
+        "age": 42,
+        "rating": 4.6,
+        "email": "myrarout@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Monday",
+            "Saturday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Kartik Manne",
+        "city": "Chennai",
+        "specialization": "Neurologist",
+        "hospital": "Dayal, Bansal and Kanda",
+        "age": 54,
+        "rating": 4.2,
+        "email": "kartikmanne@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Monday",
+            "Sunday",
+            "Tuesday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Chirag Reddy",
+        "city": "Chennai",
+        "specialization": "Radiologist",
+        "hospital": "Soman-Deshmukh",
+        "age": 28,
+        "rating": 3.4,
+        "email": "chiragreddy@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Friday",
+            "Monday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Nitara Sachdeva",
+        "city": "Chennai",
+        "specialization": "Oncologist",
+        "hospital": "Deol, Iyer and Bora",
+        "age": 66,
+        "rating": 3.1,
+        "email": "nitarasachdeva@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Thursday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Shlok Ganguly",
+        "city": "Chennai",
+        "specialization": "Surgeon",
+        "hospital": "Zachariah LLC",
+        "age": 43,
+        "rating": 3.0,
+        "email": "shlokganguly@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Sunday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Adah Lalla",
+        "city": "Chennai",
+        "specialization": "Endocrinologist",
+        "hospital": "Kuruvilla LLC",
+        "age": 37,
+        "rating": 4.4,
+        "email": "adahlalla@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Tuesday",
+            "Thursday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Ivana Arora",
+        "city": "Chennai",
+        "specialization": "Oncologist",
+        "hospital": "Basak, Barman and Wason",
+        "age": 56,
+        "rating": 4.0,
+        "email": "ivanaarora@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Monday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Hridaan Kuruvilla",
+        "city": "Chennai",
+        "specialization": "Radiologist",
+        "hospital": "Vyas, Kaur and Chaudry",
+        "age": 70,
+        "rating": 4.0,
+        "email": "hridaankuruvilla@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Saturday",
+            "Tuesday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Nishith Swamy",
+        "city": "Chennai",
+        "specialization": "Dermatologist",
+        "hospital": "Barad LLC",
+        "age": 25,
+        "rating": 3.2,
+        "email": "nishithswamy@gmail.com",
+        "available_days": [
+            "Monday",
+            "Tuesday"
+        ]
+    }
+]

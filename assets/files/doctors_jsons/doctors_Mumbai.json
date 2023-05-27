@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Nitya Lanka",
+        "city": "Mumbai",
+        "specialization": "Radiologist",
+        "hospital": "Walia-Swamy",
+        "age": 52,
+        "rating": 3.0,
+        "email": "nityalanka@gmail.com",
+        "available_days": [
+            "Monday",
+            "Thursday",
+            "Tuesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Myra Chhabra",
+        "city": "Mumbai",
+        "specialization": "Gynecologist",
+        "hospital": "Dani-Ramanathan",
+        "age": 69,
+        "rating": 4.8,
+        "email": "myrachhabra@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday",
+            "Sunday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Mishti Rao",
+        "city": "Mumbai",
+        "specialization": "Psychiatrist",
+        "hospital": "Sundaram, Tripathi and Magar",
+        "age": 28,
+        "rating": 4.8,
+        "email": "mishtirao@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Sunday",
+            "Friday",
+            "Monday",
+            "Saturday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Pranay Rama",
+        "city": "Mumbai",
+        "specialization": "Cardiologist",
+        "hospital": "Roy Inc",
+        "age": 61,
+        "rating": 4.8,
+        "email": "pranayrama@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday",
+            "Sunday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Hiran Borde",
+        "city": "Mumbai",
+        "specialization": "Surgeon",
+        "hospital": "Sachdeva and Sons",
+        "age": 67,
+        "rating": 4.9,
+        "email": "hiranborde@gmail.com",
+        "available_days": [
+            "Monday",
+            "Tuesday",
+            "Friday",
+            "Saturday",
+            "Thursday",
+            "Wednesday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Nitara Lala",
+        "city": "Mumbai",
+        "specialization": "Psychiatrist",
+        "hospital": "Brahmbhatt Ltd",
+        "age": 39,
+        "rating": 4.2,
+        "email": "nitaralala@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Tuesday",
+            "Sunday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Ivan Bala",
+        "city": "Mumbai",
+        "specialization": "Radiologist",
+        "hospital": "Arora, Agate and Sankar",
+        "age": 61,
+        "rating": 4.6,
+        "email": "ivanbala@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Friday",
+            "Wednesday",
+            "Saturday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Fateh Acharya",
+        "city": "Mumbai",
+        "specialization": "Pediatrician",
+        "hospital": "Sami, Chand and Tandon",
+        "age": 38,
+        "rating": 4.2,
+        "email": "fatehacharya@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Mannat Dube",
+        "city": "Mumbai",
+        "specialization": "Neurologist",
+        "hospital": "Mann, Balay and Karan",
+        "age": 59,
+        "rating": 4.1,
+        "email": "mannatdube@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Jivika Badami",
+        "city": "Mumbai",
+        "specialization": "Endocrinologist",
+        "hospital": "Bhakta-Sharma",
+        "age": 43,
+        "rating": 4.0,
+        "email": "jivikabadami@gmail.com",
+        "available_days": [
+            "Monday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Stuvan Hari",
+        "city": "Mumbai",
+        "specialization": "Radiologist",
+        "hospital": "Cheema-Mangat",
+        "age": 28,
+        "rating": 4.9,
+        "email": "stuvanhari@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Saturday",
+            "Tuesday",
+            "Sunday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Ahana  Sama",
+        "city": "Mumbai",
+        "specialization": "Psychiatrist",
+        "hospital": "Banerjee-Bhalla",
+        "age": 69,
+        "rating": 3.3,
+        "email": "ahanasama@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Thursday",
+            "Sunday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Drishya Krishnan",
+        "city": "Mumbai",
+        "specialization": "Cardiologist",
+        "hospital": "Mammen PLC",
+        "age": 29,
+        "rating": 3.9,
+        "email": "drishyakrishnan@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Sunday",
+            "Tuesday",
+            "Saturday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Nirvaan Dua",
+        "city": "Mumbai",
+        "specialization": "Cardiologist",
+        "hospital": "Vyas-Soman",
+        "age": 43,
+        "rating": 4.9,
+        "email": "nirvaandua@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Vritika Gokhale",
+        "city": "Mumbai",
+        "specialization": "Pediatrician",
+        "hospital": "Ramakrishnan, Chandran and Tandon",
+        "age": 26,
+        "rating": 3.7,
+        "email": "vritikagokhale@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Wednesday",
+            "Monday",
+            "Saturday"
+        ]
+    }
+]

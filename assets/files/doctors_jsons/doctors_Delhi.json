@@ -1,0 +1,241 @@
+[
+    {
+        "name": "Mannat Jha",
+        "city": "Delhi",
+        "specialization": "Surgeon",
+        "hospital": "Zachariah and Sons",
+        "age": 44,
+        "rating": 3.2,
+        "email": "mannatjha@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Friday",
+            "Saturday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Akarsh Kant",
+        "city": "Delhi",
+        "specialization": "Dermatologist",
+        "hospital": "Babu-Bedi",
+        "age": 34,
+        "rating": 4.4,
+        "email": "akarshkant@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Thursday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Sahil Chopra",
+        "city": "Delhi",
+        "specialization": "Pediatrician",
+        "hospital": "Garg, Tata and Sampath",
+        "age": 40,
+        "rating": 3.5,
+        "email": "sahilchopra@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Romil Seshadri",
+        "city": "Delhi",
+        "specialization": "Psychiatrist",
+        "hospital": "Dar-Som",
+        "age": 65,
+        "rating": 3.3,
+        "email": "romilseshadri@gmail.com",
+        "available_days": [
+            "Friday",
+            "Sunday",
+            "Monday",
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Hrishita Suresh",
+        "city": "Delhi",
+        "specialization": "Oncologist",
+        "hospital": "Sani-Walia",
+        "age": 41,
+        "rating": 4.5,
+        "email": "hrishitasuresh@gmail.com",
+        "available_days": [
+            "Friday",
+            "Saturday",
+            "Monday",
+            "Tuesday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Vidur Kibe",
+        "city": "Delhi",
+        "specialization": "Radiologist",
+        "hospital": "Divan-Dhawan",
+        "age": 39,
+        "rating": 3.7,
+        "email": "vidurkibe@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Tuesday",
+            "Friday",
+            "Saturday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Renee Sankaran",
+        "city": "Delhi",
+        "specialization": "Radiologist",
+        "hospital": "Chandran-Shenoy",
+        "age": 30,
+        "rating": 3.9,
+        "email": "reneesankaran@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Thursday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Dhanuk Balakrishnan",
+        "city": "Delhi",
+        "specialization": "Radiologist",
+        "hospital": "Bhattacharyya, Behl and Bajwa",
+        "age": 57,
+        "rating": 4.8,
+        "email": "dhanukbalakrishnan@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Sunday",
+            "Thursday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Ayesha Ratta",
+        "city": "Delhi",
+        "specialization": "Pediatrician",
+        "hospital": "Jani, Chowdhury and Hegde",
+        "age": 25,
+        "rating": 4.1,
+        "email": "ayesharatta@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Sunday",
+            "Tuesday",
+            "Saturday",
+            "Friday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Ryan Bava",
+        "city": "Delhi",
+        "specialization": "Pediatrician",
+        "hospital": "Bahl PLC",
+        "age": 50,
+        "rating": 4.1,
+        "email": "ryanbava@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Thursday",
+            "Saturday",
+            "Friday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Nirvi Sethi",
+        "city": "Delhi",
+        "specialization": "Endocrinologist",
+        "hospital": "Biswas Inc",
+        "age": 43,
+        "rating": 3.6,
+        "email": "nirvisethi@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Tuesday",
+            "Thursday",
+            "Wednesday",
+            "Monday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Rohan Lad",
+        "city": "Delhi",
+        "specialization": "Cardiologist",
+        "hospital": "Edwin, Loke and Brahmbhatt",
+        "age": 63,
+        "rating": 4.4,
+        "email": "rohanlad@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Tara Sarma",
+        "city": "Delhi",
+        "specialization": "Psychiatrist",
+        "hospital": "Apte-Verma",
+        "age": 32,
+        "rating": 4.0,
+        "email": "tarasarma@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Friday",
+            "Tuesday",
+            "Wednesday",
+            "Sunday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Urvi Bhattacharyya",
+        "city": "Delhi",
+        "specialization": "Dermatologist",
+        "hospital": "Sheth, Rau and Din",
+        "age": 26,
+        "rating": 3.0,
+        "email": "urvibhattacharyya@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Wednesday",
+            "Tuesday",
+            "Sunday",
+            "Friday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Tiya Choudhry",
+        "city": "Delhi",
+        "specialization": "Surgeon",
+        "hospital": "Gera-Wadhwa",
+        "age": 26,
+        "rating": 4.7,
+        "email": "tiyachoudhry@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Tuesday",
+            "Friday",
+            "Sunday",
+            "Monday"
+        ]
+    }
+]

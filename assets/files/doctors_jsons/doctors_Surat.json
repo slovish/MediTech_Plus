@@ -1,0 +1,231 @@
+[
+    {
+        "name": "Anahita Mammen",
+        "city": "Surat",
+        "specialization": "Gynecologist",
+        "hospital": "Bhattacharyya, Maharaj and Wagle",
+        "age": 33,
+        "rating": 4.5,
+        "email": "anahitamammen@gmail.com",
+        "available_days": [
+            "Monday",
+            "Tuesday",
+            "Sunday",
+            "Friday",
+            "Thursday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Lakshay Borah",
+        "city": "Surat",
+        "specialization": "Endocrinologist",
+        "hospital": "Kar-Goda",
+        "age": 67,
+        "rating": 3.3,
+        "email": "lakshayborah@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Bhavin Saran",
+        "city": "Surat",
+        "specialization": "Psychiatrist",
+        "hospital": "Cheema, Kumer and Ramachandran",
+        "age": 44,
+        "rating": 4.2,
+        "email": "bhavinsaran@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Wednesday",
+            "Tuesday",
+            "Saturday",
+            "Monday",
+            "Friday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Dhruv Babu",
+        "city": "Surat",
+        "specialization": "Psychiatrist",
+        "hospital": "Rajan LLC",
+        "age": 34,
+        "rating": 4.9,
+        "email": "dhruvbabu@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Saturday",
+            "Thursday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Dhanush Setty",
+        "city": "Surat",
+        "specialization": "Endocrinologist",
+        "hospital": "Chaudhari PLC",
+        "age": 65,
+        "rating": 3.6,
+        "email": "dhanushsetty@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Thursday",
+            "Wednesday",
+            "Friday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Amani Bajwa",
+        "city": "Surat",
+        "specialization": "Neurologist",
+        "hospital": "Majumdar, Majumdar and Bansal",
+        "age": 58,
+        "rating": 4.8,
+        "email": "amanibajwa@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Wednesday",
+            "Monday",
+            "Friday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Nirvi Khatri",
+        "city": "Surat",
+        "specialization": "Surgeon",
+        "hospital": "Mahajan, Bajaj and Handa",
+        "age": 51,
+        "rating": 4.3,
+        "email": "nirvikhatri@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Sunday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Sara Tella",
+        "city": "Surat",
+        "specialization": "Gynecologist",
+        "hospital": "Vig, Swamy and Agarwal",
+        "age": 64,
+        "rating": 4.9,
+        "email": "saratella@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Wednesday",
+            "Saturday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Amani Dave",
+        "city": "Surat",
+        "specialization": "Gynecologist",
+        "hospital": "Gaba Inc",
+        "age": 62,
+        "rating": 3.3,
+        "email": "amanidave@gmail.com",
+        "available_days": [
+            "Friday",
+            "Thursday",
+            "Sunday",
+            "Wednesday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Vidur Kakar",
+        "city": "Surat",
+        "specialization": "Cardiologist",
+        "hospital": "De and Sons",
+        "age": 67,
+        "rating": 3.3,
+        "email": "vidurkakar@gmail.com",
+        "available_days": [
+            "Monday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Saira Cherian",
+        "city": "Surat",
+        "specialization": "Gynecologist",
+        "hospital": "Bedi, Borde and Trivedi",
+        "age": 70,
+        "rating": 4.8,
+        "email": "sairacherian@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Monday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Anya Chauhan",
+        "city": "Surat",
+        "specialization": "Endocrinologist",
+        "hospital": "Ratti-Bhatnagar",
+        "age": 27,
+        "rating": 4.1,
+        "email": "anyachauhan@gmail.com",
+        "available_days": [
+            "Friday",
+            "Monday",
+            "Saturday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Prisha Dave",
+        "city": "Surat",
+        "specialization": "Surgeon",
+        "hospital": "Sibal-Chaudhuri",
+        "age": 63,
+        "rating": 4.7,
+        "email": "prishadave@gmail.com",
+        "available_days": [
+            "Friday",
+            "Sunday",
+            "Tuesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Baiju Upadhyay",
+        "city": "Surat",
+        "specialization": "Gynecologist",
+        "hospital": "Dutta-Singh",
+        "age": 41,
+        "rating": 3.9,
+        "email": "baijuupadhyay@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Sunday",
+            "Friday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Divij Balasubramanian",
+        "city": "Surat",
+        "specialization": "Neurologist",
+        "hospital": "Lata-Jha",
+        "age": 59,
+        "rating": 3.5,
+        "email": "divijbalasubramanian@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Tuesday",
+            "Thursday",
+            "Monday"
+        ]
+    }
+]

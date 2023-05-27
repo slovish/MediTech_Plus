@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cardiologist",
+    "info": "A specialist in the diagnosis and treatment of heart and cardiovascular system.",
+    "image": "assets/doctor_spec_images/Cardiologist.jpeg",
+    "logo": "assets/doctor_spec_logo/Cardiologist.jpg"
+  },
+  {
+    "name": "Dermatologist",
+    "info": "A medical specialist who diagnoses and treats conditions related to skin, hair, and nails.",
+    "image": "assets/doctor_spec_images/Dermatologist.jpeg",
+    "logo": "assets/doctor_spec_logo/Dermatologist.jpg"
+  },
+  {
+    "name": "Endocrinologist",
+    "info": "A medical specialist who focuses on identifying and managing hormonal disorders and imbalances in endocrine glands.",
+    "image": "assets/doctor_spec_images/Endocrinologist.jpeg",
+    "logo": "assets/doctor_spec_logo/Endocrinologist.jpg"
+  },
+  {
+    "name": "Gynecologist",
+    "info": "A medical doctor who specializes in the health of the female reproductive system, including the uterus, ovaries, and vagina.",
+    "image": "assets/doctor_spec_images/Gynecologist.jpeg",
+    "logo": "assets/doctor_spec_logo/Gynecologist.jpg"
+  },
+  {
+    "name": "Neurologist",
+    "info": "A medical specialist who diagnoses and treats disorders related to the nervous system, including the brain, spinal cord, and nerves.",
+    "image": "assets/doctor_spec_images/Neurologist.jpeg",
+    "logo": "assets/doctor_spec_logo/Neurologist.jpg"
+  },
+  {
+    "name": "Oncologist",
+    "info": "A specialist in the diagnosis and treatment of cancer, including the use of chemotherapy, radiation therapy, etc.",
+    "image": "assets/doctor_spec_images/Oncologist.jpg",
+    "logo": "assets/doctor_spec_logo/Oncologist.jpg"
+  },
+  {
+    "name": "Pediatrician",
+    "info": "A medical doctor who specializes in the health and medical care of infants, children, and adolescents.",
+    "image": "assets/doctor_spec_images/Pediatrician.jpg",
+    "logo": "assets/doctor_spec_logo/Pediatrician.jpg"
+  },
+  {
+    "name": "Psychiatrist",
+    "info": "A medical doctor who specializes in the diagnosis, treatment, and prevention of mental illnesses and emotional disorders.",
+    "image": "assets/doctor_spec_images/Psychiatrist.jpeg",
+    "logo": "assets/doctor_spec_logo/Psychiatrist.jpg"
+  },
+  {
+    "name": "Radiologist",
+    "info": "A medical specialist who interprets the medical images, such as X-rays, CT scans, MRI scans, and ultrasounds.",
+    "image": "assets/doctor_spec_images/Radiologist.jpeg",
+    "logo": "assets/doctor_spec_logo/Radiologist.jpg"
+  },
+  {
+    "name": "Surgeon",
+    "info": "A specialist in performing surgical procedures to treat injuries, diseases, and deformities through invasive methods",
+    "image": "assets/doctor_spec_images/Surgeon.jpeg",
+    "logo": "assets/doctor_spec_logo/Surgeon.jpg"
+  }
+]

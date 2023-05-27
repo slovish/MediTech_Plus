@@ -1,0 +1,239 @@
+[
+    {
+        "name": "Anvi Ganesan",
+        "city": "Indore",
+        "specialization": "Radiologist",
+        "hospital": "Dora-Ghose",
+        "age": 49,
+        "rating": 4.9,
+        "email": "anviganesan@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Keya Jayaraman",
+        "city": "Indore",
+        "specialization": "Pediatrician",
+        "hospital": "Khurana, Dyal and Venkataraman",
+        "age": 52,
+        "rating": 3.7,
+        "email": "keyajayaraman@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Wednesday",
+            "Monday",
+            "Thursday",
+            "Saturday",
+            "Tuesday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Ryan Rajagopalan",
+        "city": "Indore",
+        "specialization": "Oncologist",
+        "hospital": "Hayre, Sundaram and Mangal",
+        "age": 26,
+        "rating": 4.3,
+        "email": "ryanrajagopalan@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Sunday",
+            "Saturday",
+            "Thursday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Madhav Luthra",
+        "city": "Indore",
+        "specialization": "Oncologist",
+        "hospital": "Bali, Master and Bandi",
+        "age": 59,
+        "rating": 4.6,
+        "email": "madhavluthra@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Rohan Desai",
+        "city": "Indore",
+        "specialization": "Psychiatrist",
+        "hospital": "Ramanathan Inc",
+        "age": 54,
+        "rating": 4.1,
+        "email": "rohandesai@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Tuesday",
+            "Friday",
+            "Thursday",
+            "Monday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Arnav Sidhu",
+        "city": "Indore",
+        "specialization": "Gynecologist",
+        "hospital": "Saini-Tella",
+        "age": 70,
+        "rating": 3.1,
+        "email": "arnavsidhu@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Renee Chada",
+        "city": "Indore",
+        "specialization": "Dermatologist",
+        "hospital": "Mandal-Gandhi",
+        "age": 28,
+        "rating": 3.3,
+        "email": "reneechada@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Lavanya Khare",
+        "city": "Indore",
+        "specialization": "Neurologist",
+        "hospital": "Dave, Shenoy and Samra",
+        "age": 61,
+        "rating": 4.5,
+        "email": "lavanyakhare@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Monday",
+            "Wednesday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Emir Rajan",
+        "city": "Indore",
+        "specialization": "Radiologist",
+        "hospital": "Chatterjee-Jaggi",
+        "age": 65,
+        "rating": 3.1,
+        "email": "emirrajan@gmail.com",
+        "available_days": [
+            "Friday",
+            "Sunday",
+            "Saturday",
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Aaina Kata",
+        "city": "Indore",
+        "specialization": "Cardiologist",
+        "hospital": "Sachar LLC",
+        "age": 68,
+        "rating": 3.5,
+        "email": "aainakata@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Sunday",
+            "Friday",
+            "Wednesday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Baiju Johal",
+        "city": "Indore",
+        "specialization": "Psychiatrist",
+        "hospital": "Varghese Ltd",
+        "age": 37,
+        "rating": 3.7,
+        "email": "baijujohal@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Saturday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Charvi Loke",
+        "city": "Indore",
+        "specialization": "Cardiologist",
+        "hospital": "Jani PLC",
+        "age": 61,
+        "rating": 4.5,
+        "email": "charviloke@gmail.com",
+        "available_days": [
+            "Friday",
+            "Monday",
+            "Saturday",
+            "Wednesday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Lakshit Subramaniam",
+        "city": "Indore",
+        "specialization": "Dermatologist",
+        "hospital": "Banik-Ghose",
+        "age": 48,
+        "rating": 4.9,
+        "email": "lakshitsubramaniam@gmail.com",
+        "available_days": [
+            "Friday",
+            "Sunday",
+            "Tuesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Vritika Shukla",
+        "city": "Indore",
+        "specialization": "Psychiatrist",
+        "hospital": "Chaudry Inc",
+        "age": 62,
+        "rating": 3.3,
+        "email": "vritikashukla@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Monday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Vihaan Varghese",
+        "city": "Indore",
+        "specialization": "Dermatologist",
+        "hospital": "Jani, Gupta and Walia",
+        "age": 48,
+        "rating": 4.7,
+        "email": "vihaanvarghese@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday",
+            "Monday",
+            "Sunday",
+            "Thursday",
+            "Friday"
+        ]
+    }
+]

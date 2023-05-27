@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Emir Mannan",
+        "city": "Kolkata",
+        "specialization": "Oncologist",
+        "hospital": "Saha, Kanda and Kalla",
+        "age": 56,
+        "rating": 3.7,
+        "email": "emirmannan@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Sunday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Suhana Iyer",
+        "city": "Kolkata",
+        "specialization": "Surgeon",
+        "hospital": "Chaudhary Group",
+        "age": 29,
+        "rating": 3.0,
+        "email": "suhanaiyer@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Monday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Ranbir Tailor",
+        "city": "Kolkata",
+        "specialization": "Cardiologist",
+        "hospital": "Golla Group",
+        "age": 39,
+        "rating": 3.6,
+        "email": "ranbirtailor@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Friday",
+            "Monday",
+            "Sunday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Azad Raj",
+        "city": "Kolkata",
+        "specialization": "Oncologist",
+        "hospital": "Kapoor, Issac and Bobal",
+        "age": 35,
+        "rating": 3.0,
+        "email": "azadraj@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Tuesday",
+            "Wednesday",
+            "Monday",
+            "Sunday",
+            "Thursday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Shlok Cherian",
+        "city": "Kolkata",
+        "specialization": "Cardiologist",
+        "hospital": "Thaman-Ramanathan",
+        "age": 60,
+        "rating": 3.5,
+        "email": "shlokcherian@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Thursday",
+            "Wednesday",
+            "Sunday",
+            "Tuesday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Chirag Rana",
+        "city": "Kolkata",
+        "specialization": "Psychiatrist",
+        "hospital": "Borah LLC",
+        "age": 30,
+        "rating": 3.4,
+        "email": "chiragrana@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Saturday",
+            "Wednesday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Faiyaz Reddy",
+        "city": "Kolkata",
+        "specialization": "Neurologist",
+        "hospital": "Lall-Hayer",
+        "age": 49,
+        "rating": 4.6,
+        "email": "faiyazreddy@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Sunday",
+            "Thursday",
+            "Saturday",
+            "Friday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Rohan Bhatt",
+        "city": "Kolkata",
+        "specialization": "Dermatologist",
+        "hospital": "Kohli and Sons",
+        "age": 40,
+        "rating": 4.1,
+        "email": "rohanbhatt@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Tuesday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Keya Keer",
+        "city": "Kolkata",
+        "specialization": "Oncologist",
+        "hospital": "Vyas LLC",
+        "age": 69,
+        "rating": 3.1,
+        "email": "keyakeer@gmail.com",
+        "available_days": [
+            "Friday",
+            "Sunday",
+            "Saturday",
+            "Monday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Sara Dhar",
+        "city": "Kolkata",
+        "specialization": "Surgeon",
+        "hospital": "Gara-Sarkar",
+        "age": 29,
+        "rating": 4.9,
+        "email": "saradhar@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Wednesday",
+            "Monday",
+            "Tuesday",
+            "Saturday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Kashvi Sengupta",
+        "city": "Kolkata",
+        "specialization": "Gynecologist",
+        "hospital": "Kala-Baral",
+        "age": 60,
+        "rating": 4.8,
+        "email": "kashvisengupta@gmail.com",
+        "available_days": [
+            "Monday",
+            "Friday",
+            "Saturday",
+            "Thursday",
+            "Wednesday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Shalv Sami",
+        "city": "Kolkata",
+        "specialization": "Psychiatrist",
+        "hospital": "Sabharwal Inc",
+        "age": 27,
+        "rating": 4.1,
+        "email": "shalvsami@gmail.com",
+        "available_days": [
+            "Thursday",
+            "Monday",
+            "Sunday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Jiya Saraf",
+        "city": "Kolkata",
+        "specialization": "Psychiatrist",
+        "hospital": "Kibe, Barad and Mander",
+        "age": 66,
+        "rating": 3.6,
+        "email": "jiyasaraf@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Monday",
+            "Thursday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Anika Yogi",
+        "city": "Kolkata",
+        "specialization": "Dermatologist",
+        "hospital": "Johal-Dugar",
+        "age": 34,
+        "rating": 3.7,
+        "email": "anikayogi@gmail.com",
+        "available_days": [
+            "Monday",
+            "Sunday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Rhea Madan",
+        "city": "Kolkata",
+        "specialization": "Psychiatrist",
+        "hospital": "Trivedi-Wable",
+        "age": 55,
+        "rating": 3.1,
+        "email": "rheamadan@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Tuesday"
+        ]
+    }
+]

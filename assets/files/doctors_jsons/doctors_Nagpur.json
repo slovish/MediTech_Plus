@@ -1,0 +1,250 @@
+[
+    {
+        "name": "Eshani Dave",
+        "city": "Nagpur",
+        "specialization": "Gynecologist",
+        "hospital": "Bhakta, Lalla and Chada",
+        "age": 33,
+        "rating": 3.5,
+        "email": "eshanidave@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Sunday",
+            "Tuesday",
+            "Saturday",
+            "Friday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Nakul Chokshi",
+        "city": "Nagpur",
+        "specialization": "Psychiatrist",
+        "hospital": "Bhagat and Sons",
+        "age": 35,
+        "rating": 4.0,
+        "email": "nakulchokshi@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Saturday",
+            "Monday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Vidur Sule",
+        "city": "Nagpur",
+        "specialization": "Dermatologist",
+        "hospital": "Saxena, Wagle and Shere",
+        "age": 58,
+        "rating": 3.6,
+        "email": "vidursule@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Saturday",
+            "Monday",
+            "Friday",
+            "Tuesday",
+            "Thursday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Hrishita Viswanathan",
+        "city": "Nagpur",
+        "specialization": "Endocrinologist",
+        "hospital": "Babu-Apte",
+        "age": 44,
+        "rating": 3.8,
+        "email": "hrishitaviswanathan@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Tanya Datta",
+        "city": "Nagpur",
+        "specialization": "Neurologist",
+        "hospital": "Chada LLC",
+        "age": 29,
+        "rating": 3.7,
+        "email": "tanyadatta@gmail.com",
+        "available_days": [
+            "Friday",
+            "Sunday",
+            "Thursday",
+            "Tuesday",
+            "Wednesday",
+            "Saturday"
+        ]
+    },
+    {
+        "name": "Prerak Agarwal",
+        "city": "Nagpur",
+        "specialization": "Gynecologist",
+        "hospital": "Anne and Sons",
+        "age": 34,
+        "rating": 4.2,
+        "email": "prerakagarwal@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Thursday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Zoya Sarraf",
+        "city": "Nagpur",
+        "specialization": "Oncologist",
+        "hospital": "Malhotra, Bir and Jha",
+        "age": 40,
+        "rating": 4.0,
+        "email": "zoyasarraf@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Saturday",
+            "Friday",
+            "Tuesday",
+            "Sunday",
+            "Monday"
+        ]
+    },
+    {
+        "name": "Yakshit Sekhon",
+        "city": "Nagpur",
+        "specialization": "Neurologist",
+        "hospital": "Agarwal, Bal and Kala",
+        "age": 65,
+        "rating": 4.4,
+        "email": "yakshitsekhon@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Thursday",
+            "Sunday",
+            "Friday",
+            "Saturday",
+            "Monday",
+            "Wednesday"
+        ]
+    },
+    {
+        "name": "Sumer Tak",
+        "city": "Nagpur",
+        "specialization": "Psychiatrist",
+        "hospital": "Saha, Krish and Borde",
+        "age": 29,
+        "rating": 3.5,
+        "email": "sumertak@gmail.com",
+        "available_days": [
+            "Wednesday",
+            "Sunday",
+            "Thursday",
+            "Saturday",
+            "Monday",
+            "Tuesday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Neysa Chahal",
+        "city": "Nagpur",
+        "specialization": "Surgeon",
+        "hospital": "Tailor Group",
+        "age": 62,
+        "rating": 4.4,
+        "email": "neysachahal@gmail.com",
+        "available_days": [
+            "Tuesday",
+            "Wednesday",
+            "Monday",
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Thursday"
+        ]
+    },
+    {
+        "name": "Aniruddh Hari",
+        "city": "Nagpur",
+        "specialization": "Surgeon",
+        "hospital": "Vyas-Bhandari",
+        "age": 61,
+        "rating": 3.0,
+        "email": "aniruddhhari@gmail.com",
+        "available_days": [
+            "Sunday",
+            "Wednesday",
+            "Saturday",
+            "Thursday",
+            "Monday",
+            "Friday"
+        ]
+    },
+    {
+        "name": "Ryan Chaudry",
+        "city": "Nagpur",
+        "specialization": "Oncologist",
+        "hospital": "Amble, Dhawan and Warrior",
+        "age": 33,
+        "rating": 4.2,
+        "email": "ryanchaudry@gmail.com",
+        "available_days": [
+            "Friday",
+            "Wednesday",
+            "Saturday",
+            "Tuesday",
+            "Monday",
+            "Thursday",
+            "Sunday"
+        ]
+    },
+    {
+        "name": "Jayan Dyal",
+        "city": "Nagpur",
+        "specialization": "Pediatrician",
+        "hospital": "Gill-Khanna",
+        "age": 31,
+        "rating": 3.1,
+        "email": "jayandyal@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Thursday",
+            "Friday",
+            "Sunday",
+            "Monday",
+            "Wednesday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Siya Sastry",
+        "city": "Nagpur",
+        "specialization": "Pediatrician",
+        "hospital": "Chandra-Sinha",
+        "age": 37,
+        "rating": 4.9,
+        "email": "siyasastry@gmail.com",
+        "available_days": [
+            "Friday",
+            "Tuesday"
+        ]
+    },
+    {
+        "name": "Ela Seth",
+        "city": "Nagpur",
+        "specialization": "Cardiologist",
+        "hospital": "Bawa and Sons",
+        "age": 48,
+        "rating": 3.3,
+        "email": "elaseth@gmail.com",
+        "available_days": [
+            "Saturday",
+            "Friday",
+            "Wednesday",
+            "Thursday"
+        ]
+    }
+]
