@@ -10,10 +10,10 @@ import 'package:sigv4/sigv4.dart';
 class BotService {
   late Map<String, dynamic> result;
   String botName = "Dr_T";
-  String kAccessKeyId = 'AKIA3WAXP7SBROBX367W';
-  String kSecretAccessKey = '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';
-  String botAlias = "TestBotAlias";
-  String botAWSRegion = "ap-southeast-1";
+  String kAccessKeyId = '';
+  String kSecretAccessKey = '';
+  String botAlias = "";
+  String botAWSRegion = "";
 
   Future<Map<String, dynamic>> callBot(String message) async {
     var response;
