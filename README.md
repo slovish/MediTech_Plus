@@ -54,19 +54,21 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### Firebase
+<p align="center">
 
-![image](https://github.com/slovish/MediTech_Plus/assets/86742240/45eb941e-77c2-41f2-870c-f099a15ef270)
+<img src = "https://github.com/slovish/MediTech_Plus/assets/86742240/4335e65b-de83-4e3d-be09-7e8609ecec44">
 
+</p>
 ### sci-kit learn
 <p align="center">
-    
-![image](https://github.com/slovish/MediTech_Plus/assets/86742240/4eec5ce7-77de-445c-9d31-c4abbc0bb4b0)
+
+<img src = "https://github.com/slovish/MediTech_Plus/assets/86742240/4eec5ce7-77de-445c-9d31-c4abbc0bb4b0">
 
 </p>
 ### Pandas
 <p align="center">
-    
-![image](https://github.com/slovish/MediTech_Plus/assets/86742240/9d7cf7b8-575b-4dbf-ac93-c99a0bdaa8e5)
+
+<img src = "https://github.com/slovish/MediTech_Plus/assets/86742240/9d7cf7b8-575b-4dbf-ac93-c99a0bdaa8e5">
 
 </p>
 
@@ -81,7 +83,7 @@ During training, the Random Forest algorithm created an ensemble of decision tre
 <p align="center">
 <img src = "https://github.com/slovish/MediTech_Plus/assets/86742240/0818275a-6ecc-4f5f-801a-4020b1f79961" width = "" height = "250">
     
-    Decision Tree Ensemble made by model
+                                                    Decision Tree Ensemble made by model
 </p>
                                                           
 After training, the model achieved an impressive accuracy of **91%** on the test dataset, demonstrating its ability to accurately predict diseases based on the given symptoms. Additionally, feature importance analysis revealed the most significant symptoms contributing to the disease predictions. 
