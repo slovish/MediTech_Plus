@@ -69,8 +69,10 @@ The Random Forest algorithm was chosen due to its ability to handle large datase
 
 During training, the Random Forest algorithm created an ensemble of decision trees and utilized a random subset of features at each split. This helped to minimize overfitting and improve the model's generalization capability. 
 
-<img src = "https://github.com/slovish/MediTech_Plus/assets/86742240/0818275a-6ecc-4f5f-801a-4020b1f79961" width = "250" height = "250" class = "center">
+<img src = "https://github.com/slovish/MediTech_Plus/assets/86742240/0818275a-6ecc-4f5f-801a-4020b1f79961" width = "250" height = "250" class="centerImage">
+
                                                           Decision Tree Ensemble made by model
+                                                          
 After training, the model achieved an impressive accuracy of **91%** on the test dataset, demonstrating its ability to accurately predict diseases based on the given symptoms. Additionally, feature importance analysis revealed the most significant symptoms contributing to the disease predictions. 
 
 Overall, the implemented Random Forest model on the disease symptom dataset provided valuable insights into the relationship between symptoms and diseases, offering potential benefits in disease diagnosis and healthcare decision-making.
