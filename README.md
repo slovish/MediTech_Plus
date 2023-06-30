@@ -53,7 +53,7 @@ After training, the model achieved an impressive accuracy of **91%** on the test
 Overall, the implemented Random Forest model on the disease symptom dataset provided valuable insights into the relationship between symptoms and diseases, offering potential benefits in disease diagnosis and healthcare decision-making.
 
 ## Screen Shots
-| First Header  | Second Header |
+| | |
 | ------------- | ------------- |
 | ![registration_screen](https://github.com/slovish/MediTech_Plus/assets/86742240/249116a9-370e-4aa0-877a-856832c90cf7) | ![homescreen](https://github.com/slovish/MediTech_Plus/assets/86742240/1ad0b5f9-db29-42fc-9f1d-b040996efb9e) |
 | ![doctors_list](https://github.com/slovish/MediTech_Plus/assets/86742240/3c5a81c8-a669-477a-bdf3-cbd8f40718f8) | ![dr_profile](https://github.com/slovish/MediTech_Plus/assets/86742240/a0d3cc6f-49ac-4ce1-a07b-b884532dee3c) |
